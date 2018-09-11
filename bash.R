@@ -39,7 +39,7 @@ comm <- noquote(paste(
   }
 
 
-write.table(bash, "INDSPectra.txt", row.names = F, col.names = F, quote = F)
+write.table(bash, "downloadlist.txt", row.names = F, col.names = F, quote = F)
 
 
 
