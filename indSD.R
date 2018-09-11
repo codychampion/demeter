@@ -1,4 +1,3 @@
-library(tseries)
 library(raster)
 library(ncdf4)
 
@@ -18,7 +17,7 @@ vars <- names(ncin$var)
 i <- 1
 for(i in 1:length(vars)){
 first <- 0
-
+print(vars[i])
 ii <- 1
 for(ii in 1:length(files)){
   
@@ -64,8 +63,7 @@ for(ii in 1:length(files)){
   }
   
   
-  #this is hacky but we are assuming that data is obsevered everyday
-  #use unit root test to determine if data is stationary
+  #this is hacky could be reworked
    if(ii == length(files) && length(unique(as.numeric(data$time)))/length(file) > 0.5){
       data <- data[order(as.Date(data$time)),]
       
@@ -74,8 +72,8 @@ for(ii in 1:length(files)){
       sd <- data.frame(var = vars[i], sd = sd)
       if(length(final) == 0){final <- sd}
       if(length(final) > 0){final <- rbind(final, sd)}
+   }
   
-      }
     }
   }
 
