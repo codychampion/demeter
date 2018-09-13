@@ -4,3 +4,4 @@
 #indSD.R will take a directroy containg ind.nc files, extract data, calculate the sd over each variable. 
 
 #ratiodef.txt contains formal definitions for varables
+
