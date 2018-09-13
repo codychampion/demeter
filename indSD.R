@@ -70,10 +70,9 @@ for(i in 1:length(vars)){
         if(length(final) == 0){final <- sd}
         if(length(final) > 0){final <- rbind(final, sd)}
       }
-      
     }
   }
-  
+  print((i/length(vars))*100)
 }
 
 
