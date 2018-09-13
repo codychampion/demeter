@@ -1,6 +1,6 @@
 library(raster)
 library(ncdf4)
-
+#took out file vnir_netcdf_L1_ua-mac_2017-03-24__08-21-01-586_ind.nc,vnir_netcdf_L1_ua-mac_2017-05-01__16-47-24-400_ind.nc was correpted
 #min qul
 final <- NULL
 
@@ -17,7 +17,6 @@ vars <- names(ncin$var)
 i <- 1
 for(i in 1:length(vars)){
   first <- 0
-  print(vars[i])
   ii <- 1
   for(ii in 1:length(files)){
     
@@ -26,7 +25,7 @@ for(i in 1:length(vars)){
     x <- as.vector(x)
     
     #get time code
-    timecode <- sub(".*mac_", "", files[ii])
+    timecode <- sub(".*mac_", "", files[i])
     timecode <- sub("_ind.*", "", timecode)
     
     #convert to UNIX timem stamp
@@ -70,9 +69,10 @@ for(i in 1:length(vars)){
         if(length(final) == 0){final <- sd}
         if(length(final) > 0){final <- rbind(final, sd)}
       }
+      print(paste(round((ii/length(files))*100), "% of ", vars[i], " (", round((i/length(vars))*100), "%) ", "done", sep = ""))
+      
     }
   }
-  print((i/length(vars))*100)
 }
 
 
