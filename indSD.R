@@ -1,5 +1,7 @@
 library(raster)
 library(ncdf4)
+library(functions)
+
 #took out file vnir_netcdf_L1_ua-mac_2017-03-24__08-21-01-586_ind.nc,vnir_netcdf_L1_ua-mac_2017-05-01__16-47-24-400_ind.nc was correpted
 #min qul
 final <- NULL
@@ -46,10 +48,7 @@ for(i in 1:length(vars)){
       
       quality <- fit$betweenss/(fit$tot.withinss+fit$betweenss)
       #we assume that first cluster is largest (should check source code)
-      x <- data.frame(x, fit$cluster)
-      x <- subset(x, fit.cluster == 1)
-      x <- x[,1]
-      x <- mean(x)
+      x <- clustersub(x, fit, 1)
       
       
       tmp <- data.frame(time = timecode, var = x)

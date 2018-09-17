@@ -1,4 +1,6 @@
 library(raster)
+library(functions)
+
 qual <- .6
 
 files <- list.files(pattern = "*.nc")
@@ -8,7 +10,7 @@ i <- 1
 for (i in length(files)){
   first <- 0
   ii <- 1
-  x <- raster(files[i], varname = "rfl_img", band = 441)
+  x <- raster(files[i], varname = "rfl_img", band = wavelengthtoindex(665))
   #there is a calibrarion card in the image, this removes it
   #e <- extent(202.8447, 204.4113, 7.312396, 7.84031)
   #x <- crop(x, e)
@@ -33,10 +35,7 @@ for (i in length(files)){
     
     #if no variation in data then all values will be NA after scalling
     if (length(x1) > 0) {
-      x <- data.frame(x, fit$cluster)
-      x <- subset(x, fit.cluster == 1)
-      x <- x[, 1]
-      x <- mean(x)
+      x clustersub(x, fit, 1)
     }
     
     tmp <- data.frame(index = ii, intensity = x)
