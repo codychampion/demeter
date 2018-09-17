@@ -35,7 +35,7 @@ for (i in length(files)){
     
     #if no variation in data then all values will be NA after scalling
     if (length(x1) > 0) {
-      x clustersub(x, fit, 1)
+      x <- clustersub(x, fit, 1)
     }
     
     tmp <- data.frame(index = ii, intensity = x)
