@@ -2,8 +2,9 @@ library(raster)
 qual <- .6
 
 files <- list.files(pattern = "*.nc")
-
+finaldata <- data.frame()
 i <- 1
+
 for (i in length(files)){
   first <- 0
   ii <- 1
@@ -49,4 +50,8 @@ for (i in length(files)){
       first <- 1
     }
   }
+  colnames(data) <- c("index",paste("intense", i, sep = "."))
+  
+  ifelse(length(finaldata) == 0, finaldata <- data, finaldata <- merge(finaldata, data, by="index")
+  
 }
