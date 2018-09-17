@@ -9,7 +9,7 @@ for (i in length(files)){
   first <- 0
   ii <- 1
   x <- raster(files[i], varname = "rfl_img", band = 441)
-  
+  #there is a calibrarion card in the image, this removes it
   #e <- extent(202.8447, 204.4113, 7.312396, 7.84031)
   #x <- crop(x, e)
   x <- as.vector(x)
