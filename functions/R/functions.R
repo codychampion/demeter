@@ -8,10 +8,11 @@
 # key data is that the camera has a 380-1000 nm @ 2/3 nm resolution
 #potental issue is that 620 (1000-380) has 930 incriments, have 25 extra
 
-#' convert wavelength (nm) into an index number for the terraref dataset.
+#' \code{wavelengthtoindex} converts wavelength (nm) into an index number for the terraref dataset.
 #'
 #' @param wavelength A number in nm
-#'
+#' @return an index
+#' @export
 #' @examples
 #' wavelengthtoindex(450)
 wavelengthtoindex <- function(wavelength){
@@ -20,10 +21,11 @@ wavelengthtoindex <- function(wavelength){
   return(index)
 }
 
-#' convert an index into a wavelength for the terraref dataset.
+#' \code{indextowavelength} converts an index into a wavelength for the terraref dataset.
 #'
 #' @param index A number
-#'
+#' @return wavelenght (nm)
+#' @export  
 #' @examples
 #' indextowavelength(450)
 indextowavelength <- function(index){
@@ -34,11 +36,12 @@ indextowavelength <- function(index){
 
 
 
-#' Function to use data from kmeans cluster to subset data
+#' \code{clustersub} Function to use data from kmeans cluster to subset data
 #'
 #' @parm x a vector from a raster
 #' @parm fit a kmeans model
 #' @param cluster a specific kemans cluster
+#' @export
 #'
 clustersub <- function(x, fit, cluster=1){
   x <- data.frame(x, fit$cluster)
