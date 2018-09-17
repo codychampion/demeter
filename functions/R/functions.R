@@ -1,8 +1,5 @@
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Build and Reload Package:  'Ctrl + Shift + B'
-#   Check Package:             'Ctrl + Shift + E'
-#   Test Package:              'Ctrl + Shift + T'
+# library(devtools)
+# build(), install()
 
 #the basis for these equations is from http://terraref.org/articles/lemnatec-scanalyzer-field-sensors/
 # key data is that the camera has a 380-1000 nm @ 2/3 nm resolution
@@ -10,7 +7,7 @@
 
 #' \code{wavelengthtoindex} converts wavelength (nm) into an index number for the terraref dataset.
 #'
-#' @param wavelength A number in nm
+#' @param wavelength A wavelenghth nm
 #' @return an index
 #' @export
 #' @examples
@@ -25,7 +22,7 @@ wavelengthtoindex <- function(wavelength){
 #'
 #' @param index A number
 #' @return wavelenght (nm)
-#' @export  
+#' @export
 #' @examples
 #' indextowavelength(450)
 indextowavelength <- function(index){
@@ -38,14 +35,14 @@ indextowavelength <- function(index){
 
 #' \code{clustersub} Function to use data from kmeans cluster to subset data
 #'
-#' @parm x a vector from a raster
-#' @parm fit a kmeans model
+#' @param x a vector from a raster
+#' @param fit a kmeans model
 #' @param cluster a specific kemans cluster
 #' @export
 #'
 clustersub <- function(x, fit, cluster=1){
   x <- data.frame(x, fit$cluster)
-  x <- subset(x, fit.cluster == cluster)
+  x <- subset(x, x[,2] == cluster)
   x <- x[,1]
   x <- mean(x)
   return(x)
