@@ -33,14 +33,16 @@ for(i in 1:length(vars)){
     
     
     #kmeans cluster setup, scaleing may be used, need to read more lit
-    x <- scale(x)
-    x <- na.omit(x)
+    x1 <- scale(x)
+    # <- na.omit(x1)
+    x1 <- ifelse(is.na(x1), mean(x1, na.rm=TRUE), x1)
+    x1 <- na.omit(x1)
     
     #if no variation in data then all values will be NA after scalling
-    if(length(x) > 0){
+    if(length(x1) > 0){
       
       # K-Means Cluster Analysis
-      fit <- kmeans(x, 2)
+      fit <- kmeans(x1, 2)
       
       quality <- fit$betweenss/(fit$tot.withinss+fit$betweenss)
       #we assume that first cluster is largest (should check source code)
