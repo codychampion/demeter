@@ -49,9 +49,12 @@ for (i in length(files)){
       data <- tmp
       first <- 1
     }
+    print(paste(round((i/length(files))*100), "% of files and (", round((ii/995)*100), "%) of bands done", sep = ""))
+    
   }
+  
   colnames(data) <- c("index",paste("intense", i, sep = "."))
   
-  ifelse(length(finaldata) == 0, finaldata <- data, finaldata <- merge(finaldata, data, by="index")
+  ifelse(length(finaldata) == 0, finaldata <- data, finaldata <- merge(finaldata, data, by="index"))
   
 }
