@@ -41,8 +41,8 @@ indextowavelength <- function(index){
 #' @export
 #'
 clustersub <- function(x, fit, cluster=1){
-  x <- data.frame(x, fit$cluster)
-  x <- subset(x, x[,2] == cluster)
+  x <- data.frame(x, cluster = fit$cluster)
+  x <- subset(x, cluster == cluster)
   x <- x[,1]
   x <- mean(x)
   return(x)
