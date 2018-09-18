@@ -14,10 +14,9 @@ for (i in 1:length(files)){
   #there is a calibrarion card in the image, this removes it
   #e <- extent(202.8447, 204.4113, 7.312396, 7.84031)
   #x <- crop(x, e)
-  x <- as.vector(x)
   #kmeans cluster setup, scaleing may be used, need to read more lit
-  x1 <- scale(x)
-  # <- na.omit(x1)
+  x1 <- scale(as.vector(x))
+  #if a missing vaule is generaten replace with mean of dataset
   x1 <- ifelse(is.na(x1), mean(x1, na.rm = TRUE), x1)
   x1 <- na.omit(x1)
   
