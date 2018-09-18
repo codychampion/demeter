@@ -7,7 +7,7 @@ files <- list.files(pattern = "*.nc")
 finaldata <- data.frame()
 i <- 1
 
-for (i in length(files)){
+for (i in 1:length(files)){
   first <- 0
   ii <- 1
   x <- raster(files[i], varname = "rfl_img", band = wavelengthtoindex(665))
@@ -30,7 +30,7 @@ for (i in length(files)){
   }
   
   for (ii in 1:955) {
-    x <- raster(files[1], varname = "rfl_img", band = ii)
+    x <- raster(files[i], varname = "rfl_img", band = ii)
     x <- as.vector(x)
     
     #if no variation in data then all values will be NA after scalling
