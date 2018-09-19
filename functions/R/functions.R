@@ -47,3 +47,32 @@ clustersub <- function(x, fit, cluster=1){
   x <- mean(x)
   return(x)
 }
+
+
+
+
+
+
+
+
+
+
+spectraplot <- function(df, ){
+library(tidyverse)
+theme_set(theme_bw())
+
+median_sd = function(x, n=1) {
+  data_frame(y = median(x),
+             sd = sd(x),
+             ymin = y - n*sd,
+             ymax = y + n*sd)
+}
+
+plot <- ggplot(df %>% gather(key, value, -ID), aes(ID, value)) +
+  stat_summary(fun.data=median_sd, geom="errorbar", width=0.1) +
+  stat_summary(fun.y=median, geom="line") +
+  stat_summary(fun.y=median, geom="point") +
+  scale_x_continuous(breaks=unique(df$ID))
+return(plot)
+}
+
