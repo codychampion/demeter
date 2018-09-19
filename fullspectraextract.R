@@ -80,7 +80,7 @@ theme_set(theme_bw())
 
 median_sd = function(x, n=1) {
   data_frame(y = median(x),
-             sd = sd(x),
+             sd = sem(x),
              ymin = y - n*sd,
              ymax = y + n*sd)
 }
