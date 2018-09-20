@@ -74,9 +74,13 @@ for (i in 1:length(files)) {
 }
 
 finaldata$index <- indextowavelength(finaldata$index)
+finaldata <- finaldata[ , colSums(is.na(finaldata)) == 0]
+
+
 
 library(tidyverse)
-theme_set(theme_bw())
+library(cowplot)
+theme_set(theme_cowplot())
 
 mean_sem = function(x, n=1) {
   data_frame(y = mean(x),
@@ -90,5 +94,8 @@ ggplot(finaldata %>% gather(key, value, -index), aes(index, value)) +
   stat_summary(fun.y=mean, geom="line") +
   #stat_summary(fun.y=mean, geom="point") +
   scale_x_continuous(breaks=c(400, 500, 600, 700, 750, 800, 850, 900, 1000))
+
+
+length(files)
 
 
