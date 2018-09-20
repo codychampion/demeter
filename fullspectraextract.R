@@ -49,8 +49,8 @@ for (i in 1:length(files)) {
     }
     
     if (ii == 955) {
-      data$intense <-
-        (data$intense  - min(data$intense)) / (max(data$intense) - min(data$intense))
+      data$intensity <-
+        (data$intensity  - min(data$intensity)) / (max(data$intensity) - min(data$intensity))
     }
     
     print(paste(
@@ -73,22 +73,22 @@ for (i in 1:length(files)) {
   
 }
 
-
+finaldata$index <- indextowavelength(finaldata$index)
 
 library(tidyverse)
 theme_set(theme_bw())
 
-median_sd = function(x, n=1) {
-  data_frame(y = median(x),
-             sd = sd(x),
-             ymin = y - n*sd,
-             ymax = y + n*sd)
+mean_sem = function(x, n=1) {
+  data_frame(y = mean(x),
+             sem =  sqrt(var(x)/length(x)),
+             ymin = y - sem,
+             ymax = y + sem)
 }
 
-ggplot(df %>% gather(key, value, -ID), aes(ID, value)) +
-  stat_summary(fun.data=median_sd, geom="errorbar", width=0.1) +
-  stat_summary(fun.y=median, geom="line") +
-  stat_summary(fun.y=median, geom="point") +
-  scale_x_continuous(breaks=unique(df$ID))
+ggplot(finaldata %>% gather(key, value, -index), aes(index, value)) +
+  stat_summary(fun.data=mean_sem, geom="errorbar", width=0.1) +
+  stat_summary(fun.y=mean, geom="line") +
+  #stat_summary(fun.y=mean, geom="point") +
+  scale_x_continuous(breaks=c(400, 500, 600, 700, 750, 800, 850, 900, 1000))
 
 
