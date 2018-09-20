@@ -76,7 +76,8 @@ for (i in 1:length(files)) {
 finaldata$index <- indextowavelength(finaldata$index)
 
 library(tidyverse)
-theme_set(theme_bw())
+library(cowplot)
+theme_set(theme_cowplot())
 
 mean_sem = function(x, n=1) {
   data_frame(y = mean(x),
