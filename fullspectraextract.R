@@ -1,11 +1,12 @@
 library(raster)
 library(functions)
-
-qual <- .6
+library(dplyr)
+qual <- .2
 
 files <- list.files(pattern = "*.nc")
 finaldata <- data.frame()
 i <- 1
+data <- NULL
 
 for (i in 1:length(files)) {
   first <- 0
@@ -30,12 +31,17 @@ for (i in 1:length(files)) {
   
   for (ii in 1:955) {
     x <- raster(files[i], varname = "rfl_img", band = ii)
+    #e <- extent(202.8447, 204.4113, 7.312396, 7.84031)
+    #x <- crop(x, e)
     x <- as.vector(x)
     
     #if no variation in data then all values will be NA after scalling
     if (length(x1) > 0) {
-      x <- clustersub(x, fit, 1)
-    }
+      x <- data.frame(x, cluster = fit$cluster)
+      x <- subset(x, cluster == 1)
+      x <- x[,1]
+      x <- mean(x)
+      }
     
     tmp <- data.frame(index = ii, intensity = x)
     
