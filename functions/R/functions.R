@@ -40,7 +40,7 @@ indextowavelength <- function(index){
 #' @param cluster a specific kemans cluster
 #' @export
 #'
-clustersub <- function(x, fit, cluster=1){
+clustersub <- function(x, fit, cluster){
   x <- data.frame(x, cluster = fit$cluster)
   x <- subset(x, cluster == cluster)
   x <- x[,1]
