@@ -1,0 +1,23 @@
+---
+title: "Dose Dependence"
+output: html_notebook
+---
+
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook.  The dose dependence of Sorghum is studied with the purpose of determining IC50 of heavy metal contamination that will affect growth.  Plants are exposed to contamination for 20 days inorder to reach growth stage of 1 (three leaf).
+
+
+```{r}
+library(drc)
+
+#mock data
+data <- data.frame(dose = c(0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3),
+                   metal = c("Hg", "Hg", "As", "As", "Hg", "Hg", "As", "As", "Hg", "Hg", "As", "As", "Hg", "Hg", "As", "As"),
+                   germ = c(10, 10, 10, 10, 5, 5, 5, 5, 1, 2, 1, 1, 0, 0, 0, 1))
+
+#drm is a dose responce model
+model <- drm(germ ~ dose, metal, data = data, fct = LL.4(names=c("Slope","Lower Limit","Upper Limit", "ED50")))
+summary(model)
+ED(model,50,interval="delta")
+plot(model)
+```
