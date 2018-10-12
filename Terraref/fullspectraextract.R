@@ -20,12 +20,13 @@ qual <- .2
 
 #files <- list.files(pattern = "*.nc")
 files <- read.table("filelistfull.csv", quote="\"", comment.char="")
+files[] <- lapply(files, as.character)
 finaldata <- data.frame()
 i <- 1
 data <- NULL
 
-for (i in 1:length(files)) {
-  download.file(files[i], destfile = paste("./", i, "data.nc", sep = "."))
+for (i in 1:nrow(files)) {
+  download.file(files$V1[i], destfile = paste("./", i, "data.nc", sep = "."))
   first <- 0
   ii <- 1
   x <-
@@ -58,7 +59,7 @@ for (i in 1:length(files)) {
       x <- subset(x, cluster == 1)
       x <- x[,1]
       x <- mean(x)
-      }
+    }
     
     tmp <- data.frame(index = ii, intensity = x)
     
@@ -74,7 +75,7 @@ for (i in 1:length(files)) {
     if (ii == 955) {
       data$intensity <-
         (data$intensity  - min(data$intensity)) / (max(data$intensity) - min(data$intensity))
-      }
+    }
     
     print(paste(
       round((i / length(files)) * 100),
