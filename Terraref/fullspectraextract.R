@@ -1,6 +1,20 @@
 library(raster)
-library(functions)
+wavelengthtoindex <- function(wavelength){
+  index <- (wavelength-380)/(2/3)
+  index <- round(index)
+  return(index)
+}
+
+indextowavelength <- function(index){
+  wavelength <- (index*(2/3))+380
+  wavelength <- round(wavelength)
+  return(wavelength)
+}
+
+
+
 library(dplyr)
+
 qual <- .2
 
 
