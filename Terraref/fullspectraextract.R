@@ -18,9 +18,10 @@ library(dplyr)
 qual <- .2
 
 
-#files <- list.files(pattern = "*.nc")
+filesdone <- list.files(pattern = "*.nc")
 files <- read.table("filelistfull.csv", quote="\"", comment.char="")
 files[] <- lapply(files, as.character)
+files <-  subset(files, V1!=filesdone)
 finaldata <- data.frame()
 i <- 1
 data <- NULL
