@@ -10,11 +10,26 @@ suppressPackageStartupMessages({
   library(GA)
 })
 
-source(file.path(dirname(sys.frame(1)$ofile %||% "sensor-optimization/R/sensor_optimization.R"), "simulate.R"))
-
 `%||%` <- function(lhs, rhs) {
   if (is.null(lhs)) rhs else lhs
 }
+
+load_simulation_helper <- function() {
+  candidate_paths <- c(
+    "sensor-optimization/R/simulate.R",
+    file.path(getwd(), "sensor-optimization", "R", "simulate.R"),
+    file.path(dirname(sys.frame(1)$ofile %||% ""), "simulate.R")
+  )
+
+  helper_path <- candidate_paths[file.exists(candidate_paths)][1]
+  if (is.na(helper_path)) {
+    stop("Could not find simulate.R. Run from the repository root or source simulate.R manually.")
+  }
+
+  source(helper_path)
+}
+
+load_simulation_helper()
 
 clamp_bounds <- function(lower, upper, min_wave = 401, max_wave = 1022) {
   lower <- max(lower, min_wave, na.rm = TRUE)
