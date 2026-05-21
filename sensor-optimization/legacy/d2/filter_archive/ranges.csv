@@ -1,0 +1,1268 @@
+"","nm.min","nm.max","name","price","block.min","block.max"
+"1",400,750,"12.5mm Diameter 45°, Red Dichroic Filter",65,NA,NA
+"2",400,750,"25mm Diameter 45°, Red Dichroic Filter",75,NA,NA
+"3",400,750,"35mm Square 45°, Red Dichroic Filter",99,NA,NA
+"4",400,750,"50mm Square 45°, Red Dichroic Filter",125,NA,NA
+"5",520,800,"12.5mm Diameter 45°, Green Dichroic Filter",65,NA,NA
+"6",520,800,"25mm Diameter 45°, Green Dichroic Filter",75,NA,NA
+"7",520,800,"35mm Square 45°, Green Dichroic Filter",99,NA,NA
+"8",520,800,"50mm Square 45°, Green Dichroic Filter",125,NA,NA
+"9",400,800,"12.5mm Diameter 45°, Blue Dichroic Filter",65,NA,NA
+"10",400,800,"25mm Diameter 45°, Blue Dichroic Filter",75,NA,NA
+"11",400,800,"35mm Square 45°, Blue Dichroic Filter",99,NA,NA
+"12",400,800,"50mm Square 45°, Blue Dichroic Filter",125,NA,NA
+"13",400,725,"12.5mm Diameter 45°, Cyan Dichroic Filter",65,NA,NA
+"14",400,725,"25mm Diameter 45°, Cyan Dichroic Filter",75,NA,NA
+"15",400,725,"35mm Square 45°, Cyan Dichroic Filter",99,NA,NA
+"16",400,725,"50mm Square 45°, Cyan Dichroic Filter",125,NA,NA
+"17",400,725,"12.5mm Diameter 45°, Yellow Dichroic Filter",65,NA,NA
+"18",400,725,"25mm Diameter 45°, Yellow Dichroic Filter",75,NA,NA
+"19",400,725,"35mm Square 45°, Yellow Dichroic Filter",99,NA,NA
+"20",400,725,"50mm Square 45°, Yellow Dichroic Filter",125,NA,NA
+"21",400,725,"12.5mm Diameter 45°, Magenta Dichroic Filter",65,NA,NA
+"22",400,725,"25mm Diameter 45°, Magenta Dichroic Filter",75,NA,NA
+"23",400,725,"35mm Square 45°, Magenta Dichroic Filter",99,NA,NA
+"24",400,725,"50mm Square 45°, Magenta Dichroic Filter",125,NA,NA
+"25",NA,NA,"0.1 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"26",NA,NA,"0.1 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"27",NA,NA,"0.1 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"28",NA,NA,"0.1 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"29",NA,NA,"0.15 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"30",NA,NA,"0.15 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"31",NA,NA,"0.15 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"32",NA,NA,"0.15 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"33",NA,NA,"0.2 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"34",NA,NA,"0.2 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"35",NA,NA,"0.2 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"36",NA,NA,"0.2 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"37",NA,NA,"0.3 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"38",NA,NA,"0.3 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"39",NA,NA,"0.3 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"40",NA,NA,"0.3 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"41",NA,NA,"0.4 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"42",NA,NA,"0.4 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"43",NA,NA,"0.4 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"44",NA,NA,"0.4 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"45",NA,NA,"0.5 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"46",NA,NA,"0.5 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"47",NA,NA,"0.5 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"48",NA,NA,"0.5 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"49",NA,NA,"0.6 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"50",NA,NA,"0.6 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"51",NA,NA,"0.6 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"52",NA,NA,"0.6 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"53",NA,NA,"0.7 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"54",NA,NA,"0.7 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"55",NA,NA,"0.7 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"56",NA,NA,"0.7 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"57",NA,NA,"0.9 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"58",NA,NA,"0.9 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"59",NA,NA,"0.9 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"60",NA,NA,"0.9 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"61",NA,NA,"1.0 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"62",NA,NA,"1.0 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"63",NA,NA,"1.0 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"64",NA,NA,"1.0 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"65",NA,NA,"1.3 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"66",NA,NA,"1.3 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"67",NA,NA,"1.3 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"68",NA,NA,"1.3 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"69",NA,NA,"1.5 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"70",NA,NA,"1.5 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"71",NA,NA,"1.5 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"72",NA,NA,"1.5 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"73",NA,NA,"2.0 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"74",NA,NA,"2.0 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"75",NA,NA,"2.0 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"76",NA,NA,"2.0 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"77",NA,NA,"2.5 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"78",NA,NA,"2.5 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"79",NA,NA,"2.5 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"80",NA,NA,"2.5 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"81",NA,NA,"3.0 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"82",NA,NA,"3.0 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"83",NA,NA,"3.0 OD 50mm Sq, Absorptive ND Filter",79,400,700
+"84",NA,NA,"3.0 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"85",NA,NA,"3.5 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"86",NA,NA,"3.5 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"87",NA,NA,"3.5 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"88",NA,NA,"3.5 OD 50mm Sq., Absorptive ND Filter",79,400,700
+"89",NA,NA,"4 OD 12.5mm Dia, Absorptive ND Filter",26.5,400,700
+"90",NA,NA,"4 OD 25mm Dia, Absorptive ND Filter",37.5,400,700
+"91",NA,NA,"4 OD 50mm Dia, Absorptive ND Filter",79,400,700
+"92",NA,NA,"4 OD 50mm Sq., Absorptive ND Filter",79,400,700
+"227",372,647,"427nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"228",439,647,"466nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"229",458,647,"480nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"230",473,647,"503nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"231",515,790,"552nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"232",561,790,"613nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"233",633,790,"659nm, 12.5mm Diameter, Dichroic Laser Beam Combiner",145,NA,NA
+"234",372,647,"427nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"235",439,647,"466nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"236",458,647,"480nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"237",473,647,"503nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"238",515,790,"552nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"239",561,790,"613nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"240",633,790,"659nm, 25mm Diameter, Dichroic Laser Beam Combiner",195,NA,NA
+"241",372,647,"427nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"242",439,647,"466nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"243",458,647,"480nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"244",473,647,"503nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"245",515,790,"552nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"246",561,790,"613nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"247",633,790,"659nm, 50mm Diameter, Dichroic Laser Beam Combiner",475,NA,NA
+"248",350,1600,"400nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"249",350,1600,"450nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"250",350,1600,"500nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"251",415,1600,"550nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"252",460,1600,"600nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"253",495,1600,"650nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"254",535,1600,"700nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"255",565,1600,"750nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"256",600,1600,"800nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"257",635,1600,"850nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"258",675,1600,"900nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"259",350,1600,"400nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"260",350,1600,"450nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"261",350,1600,"500nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"262",415,1600,"550nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"263",460,1600,"600nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"264",495,1600,"650nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"265",535,1600,"700nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"266",565,1600,"750nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"267",600,1600,"800nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"268",635,1600,"850nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"269",675,1600,"900nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"270",350,1600,"400nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"271",350,1600,"450nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"272",350,1600,"500nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"273",415,1600,"550nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"274",406,1600,"600nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"275",495,1600,"650nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"276",535,1600,"700nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"277",565,1600,"750nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"278",600,1600,"800nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"279",635,1600,"850nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"280",675,1600,"900nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"281",350,1600,"400nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"282",350,1600,"450nm, 25.2 x 35.6mm, Dichroic Longpass Filter ",135,NA,NA
+"283",350,1600,"500nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"284",415,1600,"550nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"285",460,1600,"600nm, 25.2 x 35.6mm, Dichroic Longpass Filter ",135,NA,NA
+"286",495,1600,"650nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"287",535,1600,"700nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"288",565,1600,"750nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"289",600,1600,"800nm, 25.2 x 35.6mm, Dichroic Longpass Filter ",135,NA,NA
+"290",635,1600,"850nm, 25.2 x 35.6mm, Dichroic Longpass Filter ",135,NA,NA
+"291",675,1600,"900nm, 25.2 x 35.6mm, Dichroic Longpass Filter ",135,NA,NA
+"292",715,1600,"950nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"293",750,1600,"1000nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"294",790,1600,"1050nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"295",825,1600,"1100nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"296",875,1600,"1150nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"297",920,1600,"1200nm, 12.5mm Diameter, Dichroic Longpass Filter",99,NA,NA
+"298",715,1600,"950nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"299",750,1600,"1000nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"300",790,1600,"1050nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"301",825,1600,"1100nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"302",875,1600,"1150nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"303",920,1600,"1200nm, 12.5 x 17.6mm, Dichroic Longpass Filter",99,NA,NA
+"304",715,1600,"950nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"305",750,1600,"1000nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"306",790,1600,"1050nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"307",825,1600,"1100nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"308",875,1095,"1150nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"309",920,1600,"1200nm, 25mm Diameter, Dichroic Longpass Filter",135,NA,NA
+"310",715,1600,"950nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"311",750,1600,"1000nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"312",790,1600,"1050nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"313",825,1600,"1100nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"314",875,1600,"1150nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"315",920,1600,"1200nm, 25.2 x 35.6mm, Dichroic Longpass Filter",135,NA,NA
+"316",325,485,"400nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"317",325,545,"450nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"318",325,610,"500nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"319",400,725,"550nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"320",400,795,"600nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"321",400,850,"650nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"322",400,900,"700nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"323",400,990,"750nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"324",400,1050,"800nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"325",400,1110,"850nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"326",465,1170,"900nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"327",325,485,"400nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"328",325,545,"450nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"329",325,610,"500nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"330",400,725,"550nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"331",400,795,"600nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"332",400,850,"650nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"333",400,900,"700nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"334",400,990,"750nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"335",400,1050,"800nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"336",400,1110,"850nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"337",465,1170,"900nm, 12.5 x 17.6mm, Dichroic Shortpass Filter ",99,NA,NA
+"338",325,485,"400nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"339",325,545,"450nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"340",325,610,"500nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"341",400,725,"550nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"342",400,795,"600nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"343",400,850,"650nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"344",400,900,"700nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"345",400,990,"750nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"346",400,1050,"800nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"347",400,1110,"850nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"348",465,1170,"900nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"349",325,485,"400nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"350",325,545,"450nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"351",325,610,"500nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"352",400,725,"550nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"353",400,795,"600nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"354",400,850,"650nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"355",400,900,"700nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"356",400,990,"750nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"357",400,1050,"800nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"358",400,1110,"850nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"359",465,1170,"900nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"360",495,1235,"950nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"361",520,1300,"1000nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"362",546,1365,"1050nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"363",572,1430,"1100nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"364",598,1495,"1150nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"365",624,1560,"1200nm, 12.5mm Diameter, Dichroic Shortpass Filter",99,NA,NA
+"366",495,1235,"950nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"367",520,1300,"1000nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"368",546,1365,"1050nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"369",572,1430,"1100nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"370",598,1495,"1150nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"371",624,1560,"1200nm, 12.5 x 17.6mm, Dichroic Shortpass Filter",99,NA,NA
+"372",495,1325,"950nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"373",520,1300,"1000nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"374",546,1365,"1050nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"375",572,1430,"1100nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"376",598,1495,"1150nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"377",624,1560,"1200nm, 25mm Diameter, Dichroic Shortpass Filter",135,NA,NA
+"378",495,1235,"950nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"379",520,1300,"1000nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"380",546,1365,"1050nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"381",572,1430,"1100nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"382",598,1495,"1150nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"383",624,1560,"1200nm, 25.2 x 35.6mm, Dichroic Shortpass Filter",135,NA,NA
+"605",325,850,"409nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"606",325,850,"409nm, 12.5 x 17.6mm, Dichroic Filter ",150,NA,NA
+"607",325,850,"409nm, 25.0mm Diameter, Dichroic Filter ",205,NA,NA
+"608",325,850,"409nm, 25.2 x 35.6mm, Dichroic Filter ",205,NA,NA
+"609",325,850,"435nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"610",325,850,"435nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"611",325,850,"435nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"612",325,850,"435nm, 25mm Diameter, Dichroic Filter",205,NA,NA
+"613",415,600,"458nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"614",415,600,"458nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"615",415,600,"458nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"616",415,600,"458nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"617",350,850,"482nm, 12.5mm Diameter, Dichroic Filter ",150,NA,NA
+"618",325,850,"482nm, 12.5 x 17.6mm, Dichroic Filter ",150,NA,NA
+"619",325,850,"482nm, 25.0mm Diameter, Dichroic Filter ",205,NA,NA
+"620",325,850,"482nm, 25.2 x 35.6mm, Dichroic Filter  ",205,NA,NA
+"621",435,730,"495nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"622",435,730,"495nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"623",435,730,"495nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"624",435,730,"495nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"625",440,730,"506nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"626",440,730,"506nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"627",440,730,"506nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"628",440,730,"506nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"629",350,850,"510nm, 12.5mm Diameter, Dichroic Filter ",150,NA,NA
+"630",325,850,"510nm, 12.5 x 17.6mm, Dichroic Filter ",150,NA,NA
+"631",325,850,"510nm, 25.0mm Diameter, Dichroic Filter ",205,NA,NA
+"632",325,850,"510nm, 25.2 x 35.6mm, Dichroic Filter  ",205,NA,NA
+"633",350,850,"516nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"634",325,850,"516nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"635",325,850,"516nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"636",325,850,"516nm, 25.2 x 35.6mm, Dichroic Filter  ",205,NA,NA
+"637",475,730,"520nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"638",475,730,"520nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"639",475,730,"520nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"640",440,730,"520nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"641",350,850,"552nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"642",325,850,"552nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"643",325,850,"552nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"644",325,850,"552nm, 25.2 x 35.6mm, Dichroic Filter  ",205,NA,NA
+"645",490,750,"562nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"646",490,750,"562nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"647",490,750,"562nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"648",490,750,"562nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"649",520,800,"593nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"650",520,800,"593nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"651",520,800,"593nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"652",520,800,"593nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"653",350,950,"605nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"654",350,950,"605nm, 12.5 x 17.6mm, Dichroic Filter ",150,NA,NA
+"655",350,950,"605nm, 25.0mm Diameter, Dichroic Filter ",205,NA,NA
+"656",350,950,"605nm, 25.2 x 35.6mm, Dichroic Filter ",205,NA,NA
+"657",400,850,"635nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"658",400,850,"635nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"659",400,850,"635nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"660",400,850,"635nm, 25mm Diameter, Dichroic Filter",205,NA,NA
+"661",580,800,"660nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"662",580,800,"660nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"663",580,800,"660nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"664",580,800,"660nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"665",590,810,"685nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"666",590,810,"685nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"667",590,810,"685nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"668",590,810,"685nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"669",450,1100,"735nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"670",450,1100,"735nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"671",450,1100,"735nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"672",450,1100,"735nm, 25mm Diameter, Dichroic Filter",205,NA,NA
+"673",450,1100,"757nm, 12.5mm Diameter, Dichroic Filter",150,NA,NA
+"674",450,1100,"757nm, 12.5 x 17.6mm, Dichroic Filter",150,NA,NA
+"675",450,1100,"757nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"676",450,1100,"757nm, 25mm Diameter, Dichroic Filter",205,NA,NA
+"677",450,1100,"801nm, 12.5mm Diameter, Dichroic Filter ",150,NA,NA
+"678",450,1100,"801nm, 12.5 x 17.6mm, Dichroic Filter ",150,NA,NA
+"679",450,1100,"801nm, 25.0mm Diameter, Dichroic Filter",205,NA,NA
+"680",450,1100,"801nm, 25.2 x 35.6mm, Dichroic Filter",205,NA,NA
+"681",425,538,"Fluorescence Filter Set for Cyan Fluorescence Protein (CFP)",630,NA,NA
+"682",457,538,"Fluorescence Filter Set for Green Fluorescence Protein (GFP)",630,NA,NA
+"683",467,556,"Fluorescence Filter Set for FITC Fluorescein",630,NA,NA
+"684",488,554,"Fluorescence Filter Set for Yellow Fluorescence Protein (YFP)",630,NA,NA
+"685",513,613,"Fluorescence Filter Set for Cy3 Fluorescence Dye",630,NA,NA
+"686",532,613,"Fluorescence Filter Set for TRITC Rhodamine Dye",630,NA,NA
+"687",542,644,"Fluorescence Filter Set for Texas Red Fluorescence Dye",630,NA,NA
+"688",542,678,"Fluorescence Filter Set for mCherry Fluorescence Protein",630,NA,NA
+"689",604,712,"Fluorescence Filter Set for CY5 Fluorescence Dye",630,NA,NA
+"690",635,736,"Fluorescence Filter Set for CY5.5 Fluorescence Dye",630,NA,NA
+"691",352,477,"Fluorescence Filter Set for DAPI (High Brightness) ",630,NA,NA
+"692",382,477,"Fluorescence Filter Set for DAPI (High Contrast) ",630,NA,NA
+"693",426,556,"Fluorescence Filter Set for Lucifer Yellow ",630,NA,NA
+"694",484,537,"Fluorescence Filter Set for SpectrumGreen ",630,NA,NA
+"695",415,533,"Fluorescence Filter Set for Qdot 525 ",630,NA,NA
+"696",415,613,"Fluorescence Filter Set for Qdot 605 ",630,NA,NA
+"697",415,663,"Fluorescence Filter Set for Qdot 625 ",630,NA,NA
+"698",415,663,"Fluorescence Filter Set for Qdot 655 ",630,NA,NA
+"699",524,586,"Fluorescence Filter Set for SpectrumGold ",630,NA,NA
+"700",532,596,"Fluorescence Filter Set for SpectrumOrange ",630,NA,NA
+"701",576,644,"Fluorescence Filter Set for SpectrumRed ",630,NA,NA
+"702",748,851,"Fluorescence Filter Set for Indocyanine Green (ICG) ",630,NA,NA
+"2782",400,1150,"0° AOI, 12.5mm Diameter, Cold Mirror",35,NA,NA
+"2783",400,1150,"0° AOI, 12.5mm Square, Cold Mirror",35,NA,NA
+"2784",400,1150,"0° AOI, 20.0mm Diameter, Cold Mirror",37.5,NA,NA
+"2785",400,1150,"0° AOI, 20.0mm Square, Cold Mirror",37.5,NA,NA
+"2786",400,1150,"0° AOI, 25.0mm Diameter, Cold Mirror",42.5,NA,NA
+"2787",400,1150,"0° AOI, 25.0mm Square, Cold Mirror",42.5,NA,NA
+"2788",400,1150,"0° AOI, 35.0mm Square, Cold Mirror",55,NA,NA
+"2789",400,1150,"0° AOI, 50.0mm Diameter, Cold Mirror",79,NA,NA
+"2790",400,1150,"0° AOI, 50.0mm Square, Cold Mirror",79,NA,NA
+"2791",400,1150,"0° AOI, 101 x 127mm, Cold Mirror",175,NA,NA
+"2792",425,1150,"45° AOI, 12.5mm Diameter, Cold Mirror",35,NA,NA
+"2793",425,1150,"45° AOI, 12.5mm Square, Cold Mirror",35,NA,NA
+"2794",425,1150,"45° AOI, 20.0mm Diameter, Cold Mirror",37.5,NA,NA
+"2795",425,1150,"45° AOI, 20.0mm Square, Cold Mirror",37.5,NA,NA
+"2796",425,1150,"45° AOI, 25.0mm Diameter, Cold Mirror",42.5,NA,NA
+"2797",425,1150,"45° AOI, 25.0mm Square, Cold Mirror",42.5,NA,NA
+"2798",425,1150,"45° AOI, 35.0mm Square, Cold Mirror",55,NA,NA
+"2799",425,1150,"45° AOI, 50.0mm Diameter, Cold Mirror",79,NA,NA
+"2800",425,1150,"45° AOI, 50.0mm Square, Cold Mirror",79,NA,NA
+"2801",425,1150,"45° AOI, 101 x 127mm, Cold Mirror",175,NA,NA
+"2828",400,1150,"0° AOI, 12.5mm Diameter, Hot Mirror",35,NA,NA
+"2829",400,1150,"0° AOI, 12.5mm Square, Hot Mirror",35,NA,NA
+"2830",400,1150,"0° AOI, 20.0mm Diameter, Hot Mirror",37.5,NA,NA
+"2831",400,1150,"0° AOI, 20.0mm Square, Hot Mirror",37.5,NA,NA
+"2832",400,1150,"0° AOI, 25.0mm Diameter, Hot Mirror",42.5,NA,NA
+"2833",400,1150,"0° AOI, 25.0mm Square, Hot Mirror",42.5,NA,NA
+"2834",400,1150,"0° AOI, 35.0mm Square, Hot Mirror",55,NA,NA
+"2835",400,1150,"0° AOI, 50.0mm Diameter, Hot Mirror",79,NA,NA
+"2836",400,1150,"0° AOI, 50.0mm Square, Hot Mirror",79,NA,NA
+"2837",400,1150,"0° AOI, 101 x 127mm, Hot Mirror",175,NA,NA
+"2838",400,1150,"45° AOI, 12.5mm Diameter, Hot Mirror",35,NA,NA
+"2839",400,1150,"45° AOI, 12.5mm Square, Hot Mirror",35,NA,NA
+"2840",400,1150,"45° AOI, 20.0mm Diameter, Hot Mirror",37.5,NA,NA
+"2841",400,1150,"45° AOI, 20.0mm Square, Hot Mirror",37.5,NA,NA
+"2842",400,1150,"45° AOI, 25.0mm Diameter, Hot Mirror",42.5,NA,NA
+"2843",400,1150,"45° AOI, 25.0mm Square, Hot Mirror",42.5,NA,NA
+"2844",400,1150,"45° AOI, 35.0mm Square, Hot Mirror",55,NA,NA
+"2845",400,1150,"45° AOI, 50.0mm Diameter, Hot Mirror",79,NA,NA
+"2846",400,1150,"45° AOI, 50.0mm Square, Hot Mirror",79,NA,NA
+"2847",400,1150,"45° AOI, 101 x 127mm, Hot Mirror",175,NA,NA
+"2878",200,1600,"325nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2879",200,1600,"350nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2880",200,1600,"375nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2881",200,1650,"400nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2882",200,1650,"425nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2883",200,1650,"450nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2884",200,1650,"475nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2885",200,1650,"500nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2886",200,1650,"525nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2887",200,1650,"550nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2888",200,1650,"575nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2889",200,1650,"600nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2890",200,1650,"625nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2891",200,1650,"650nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2892",200,1650,"675nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2893",200,1650,"700nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2894",200,1650,"725nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2895",200,1650,"750nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2896",200,1650,"775nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2897",200,1650,"800nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2898",200,1650,"825nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2899",200,1650,"850nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2900",200,1650,"875nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2901",200,1650,"900nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2902",200,1650,"925nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2903",200,1650,"950nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2904",200,1650,"975nm 12.5mm Dia., High Performance Longpass Filter",150,NA,NA
+"2905",200,1650,"1000nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2906",200,1650,"1025nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2907",200,1650,"1050nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2908",200,1650,"1075nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2909",200,1650,"1100nm 12.5mm Dia., High Performance Longpass Filter",165,NA,NA
+"2910",200,1650,"1150nm 12.5mm Dia, High Performance Longpass Filter",165,NA,NA
+"2911",200,1650,"1200nm 12.5mm Dia, High Performance Longpass Filter",165,NA,NA
+"2912",200,1650,"1250nm 12.5mm Dia, High Performance Longpass Filter",165,NA,NA
+"2913",200,1650,"1300nm 12.5mm Dia, High Performance Longpass Filter",165,NA,NA
+"2914",200,1600,"325nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2915",200,1600,"350nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2916",200,1600,"375nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2917",200,1650,"400nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2918",200,1650,"425nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2919",200,1650,"450nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2920",200,1650,"475nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2921",200,1650,"500nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2922",200,1650,"525nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2923",200,1650,"550nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2924",200,1650,"575nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2925",200,1650,"600nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2926",200,1650,"625nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2927",200,1650,"650nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2928",200,1650,"675nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2929",200,1650,"700nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2930",200,1650,"725nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2931",200,1650,"750nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2932",200,1650,"775nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2933",200,1650,"800nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2934",200,1650,"825nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2935",200,1650,"850nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2936",200,1650,"875nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2937",200,1650,"900nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2938",200,1650,"925nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2939",200,1650,"950nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2940",200,1650,"975nm 25mm Dia., High Performance Longpass Filter",220,NA,NA
+"2941",200,1650,"1000nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2942",200,1650,"1025nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2943",200,1650,"1050nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2944",200,1650,"1075nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2945",200,1650,"1100nm 25mm Dia., High Performance Longpass Filter",235,NA,NA
+"2946",200,1650,"1150nm 25.0mm Dia, High Performance Longpass Filter",235,NA,NA
+"2947",200,1650,"1200nm 25.0mm Dia, High Performance Longpass Filter",235,NA,NA
+"2948",200,1650,"1250nm 25.0mm Dia, High Performance Longpass Filter",235,NA,NA
+"2949",200,1650,"1300nm 25.0mm Dia, High Performance Longpass Filter",235,NA,NA
+"2950",200,1600,"325nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2951",200,1600,"350nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2952",200,1600,"375nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2953",200,1650,"400nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2954",200,1650,"425nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2955",200,1650,"450nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2956",200,1650,"475nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2957",200,1650,"500nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2958",200,1650,"525nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2959",200,1650,"550nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2960",200,1650,"575nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2961",200,1650,"600nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2962",200,1650,"625nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2963",200,1650,"650nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2964",200,1650,"675nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2965",200,1650,"700nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2966",200,1650,"725nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2967",200,1650,"750nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2968",200,1650,"775nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2969",200,1650,"800nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2970",200,1650,"825nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2971",200,1650,"850nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2972",200,1650,"875nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2973",200,1650,"900nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2974",200,1650,"925nm 50mm Dia, High Performance Longpass Filter",450,NA,NA
+"2975",200,1650,"950nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2976",200,1650,"975nm 50mm Dia., High Performance Longpass Filter",450,NA,NA
+"2977",200,1650,"1000nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2978",200,1650,"1025nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2979",200,1650,"1050nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2980",200,1650,"1075nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2981",200,1650,"1100nm 50mm Dia., High Performance Longpass Filter",475,NA,NA
+"2982",200,1650,"1150nm 50.0mm Dia, High Performance Longpass Filter",475,NA,NA
+"2983",200,1650,"1200nm 50.0mm Dia, High Performance Longpass Filter",475,NA,NA
+"2984",200,1650,"1250nm 50.0mm Dia, High Performance Longpass Filter",475,NA,NA
+"2985",200,1650,"1300nm 50.0mm Dia, High Performance Longpass Filter",475,NA,NA
+"2986",300,610,"400nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"2987",300,610,"400nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"2988",300,610,"400nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"2989",300,635,"425nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"2990",300,635,"425nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"2991",300,635,"425nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"2992",250,545,"450nm 12.5mm Diameter, OD 4 Shortpass Filter",50,NA,NA
+"2993",300,660,"450nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"2994",300,660,"450nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"2995",300,660,"450nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"2996",300,685,"475nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"2997",300,685,"475nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"2998",300,685,"475nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"2999",300,715,"500nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"3000",300,715,"500nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3001",300,715,"500nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3002",300,740,"525nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3003",300,740,"525nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3004",300,740,"525nm 50mm Diameter, OD 4 Shortpass Filter ",450,NA,NA
+"3005",350,825,"550nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"3006",350,825,"550nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3007",350,825,"550nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3008",350,850,"575nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3009",350,850,"575nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3010",350,850,"575nm 50mm Diameter, OD 4 Shortpass Filter ",450,NA,NA
+"3011",350,900,"600nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"3012",350,900,"600nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3013",350,900,"600nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3014",350,925,"625nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"3015",350,925,"625nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3016",350,925,"625nm 50mm Diameter, OD 4 Shortpass Filter ",450,NA,NA
+"3017",350,960,"650nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"3018",350,960,"650nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3019",350,960,"650nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3020",350,1000,"675nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3021",350,1000,"675nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3022",350,1000,"675nm 50mm Diameter, OD 4 Shortpass Filter ",450,NA,NA
+"3023",400,1050,"700nm 12.5mm Diameter, OD 4 Shortpass Filter ",150,NA,NA
+"3024",400,1050,"700nm 25mm Diameter, OD 4 Shortpass Filter ",220,NA,NA
+"3025",400,1050,"700nm 50mm Diameter, OD 4 Shortpass Filter ",450,NA,NA
+"3026",400,1090,"725nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3027",400,1090,"725nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3028",400,1090,"725nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3029",400,1125,"750nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3030",400,1125,"750nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3031",400,1125,"750nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3032",400,1155,"775nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3033",400,1155,"775nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3034",400,1155,"775nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3035",400,1190,"800nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3036",400,1190,"800nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3037",400,1119,"800nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3038",400,1190,"825nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3039",400,1190,"825nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3040",400,1119,"825nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3041",400,1190,"850nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3042",400,1190,"850nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3043",400,1119,"850nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3044",425,1220,"875nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3045",425,1220,"875nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3046",425,1220,"875nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3047",425,1250,"900nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3048",425,1250,"900nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3049",425,1250,"900nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3050",445,1290,"925nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3051",445,1290,"925nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3052",445,1290,"925nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3053",450,1325,"950nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3054",450,1325,"950nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3055",450,1325,"950nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3056",465,1365,"975nm 12.5mm Diameter, OD 4 Shortpass Filter",150,NA,NA
+"3057",465,1365,"975nm 25mm Diameter, OD 4 Shortpass Filter",220,NA,NA
+"3058",465,1365,"975nm 50mm Diameter, OD 4 Shortpass Filter",450,NA,NA
+"3059",465,1400,"1000nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3060",465,1400,"1000nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3061",465,1400,"1000nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3062",490,1430,"1025nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3063",490,1430,"1025nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3064",490,1430,"1025nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3065",485,1460,"1050nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3066",485,1460,"1050nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3067",485,1460,"1050nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3068",505,1495,"1075nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3069",505,1495,"1075nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3070",505,1495,"1075nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3071",510,1530,"1100nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3072",510,1530,"1100nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3073",510,1530,"1100nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3074",535,1650,"1150nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3075",535,1650,"1150nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3076",535,1650,"1150nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3077",550,1650,"1200nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3078",550,1650,"1200nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3079",550,1650,"1200nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3080",575,1650,"1250nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3081",575,1650,"1250nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3082",575,1650,"1250nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3083",600,1650,"1300nm 12.5mm Diameter, OD 4 Shortpass Filter",165,NA,NA
+"3084",600,1650,"1300nm 25mm Diameter, OD 4 Shortpass Filter",235,NA,NA
+"3085",600,1650,"1300nm 50mm Diameter, OD 4 Shortpass Filter",475,NA,NA
+"3098",NA,NA,"1.05?m, 12.5mm Diameter, Infrared Longpass Filter",115,200,1050
+"3099",NA,NA,"1.05?m, 25mm Diameter, Infrared Longpass Filter",245,200,1050
+"3100",NA,NA,"1.05?m, 50mm Diameter, Infrared Longpass Filter",345,200,1050
+"3101",NA,NA,"1.65?m, 12.5mm Diameter, Infrared Longpass Filter",125,200,1650
+"3102",NA,NA,"1.65?m, 25mm Diameter, Infrared Longpass Filter",255,200,1650
+"3103",NA,NA,"1.65?m, 50mm Diameter, Infrared Longpass Filter",375,200,1650
+"3104",NA,NA,"2.40?m, 12.5mm Diameter, Infrared Longpass Filter",135,200,2400
+"3105",NA,NA,"2.40?m, 25mm Diameter, Infrared Longpass Filter",270,200,2400
+"3106",NA,NA,"2.40?m, 50mm Diameter, Infrared Longpass Filter",410,200,2400
+"3107",NA,NA,"3.60?m, 12.5mm Diameter, Infrared Longpass Filter",145,200,3600
+"3108",NA,NA,"3.60?m, 25mm Diameter, Infrared Longpass Filter",280,200,3600
+"3109",NA,NA,"3.60?m, 50mm Diameter, Infrared Longpass Filter",445,200,3600
+"3110",NA,NA,"4.50?m, 12.5mm Diameter, Infrared Longpass Filter",155,200,4500
+"3111",NA,NA,"4.50?m, 25mm Diameter, Infrared Longpass Filter",305,200,4500
+"3112",NA,NA,"4.50?m, 50mm Diameter, Infrared Longpass Filter",480,200,4500
+"3113",NA,NA,"6.00?m, 12.5mm Diameter, Infrared Longpass Filter",180,200,6000
+"3114",NA,NA,"6.00?m, 25.0mm Diameter, Infrared Longpass Filter",360,200,6000
+"3115",NA,NA,"6.00?m, 50.0mm Diameter, Infrared Longpass Filter",500,200,6000
+"3116",NA,NA,"7.30?m, 12.5mm Diameter, Infrared Longpass Filter",180,200,7300
+"3117",NA,NA,"7.30?m, 25mm Diameter, Infrared Longpass Filter",360,200,7300
+"3118",NA,NA,"7.30?m, 50mm Diameter, Infrared Longpass Filter",500,200,7300
+"3119",480,1200,"12.5mm Diameter IR Cut-Off Filter ",38.5,NA,NA
+"3120",480,1200,"12.5mm Square IR Cut-Off Filter ",38.5,NA,NA
+"3121",480,1200,"15mm Diameter IR Cut-Off Filter ",40.5,NA,NA
+"3122",480,1200,"15mm Square IR Cut-Off Filter ",40.5,NA,NA
+"3123",480,1200,"20mm Diameter IR Cut-Off Filter ",46.5,NA,NA
+"3124",480,1200,"20mm Square IR Cut-Off Filter ",46.5,NA,NA
+"3125",480,1200,"25mm Diameter IR Cut-Off Filter ",51,NA,NA
+"3126",480,1200,"25mm Square IR Cut-Off Filter ",51,NA,NA
+"3127",480,1200,"50mm Diameter IR Cut-Off Filter ",87.5,NA,NA
+"3128",480,1200,"50mm Square IR Cut-Off Filter ",87.5,NA,NA
+"3129",NA,NA,"0.1 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3130",NA,NA,"0.2 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3131",NA,NA,"0.3 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3132",NA,NA,"0.4 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3133",NA,NA,"0.5 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3134",NA,NA,"0.6 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3135",NA,NA,"0.7 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3136",NA,NA,"0.8 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3137",NA,NA,"0.9 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3138",NA,NA,"1.0 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3139",NA,NA,"2.0 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3140",NA,NA,"3.0 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3141",NA,NA,"4.0 OD 3"" Sq, Neutral Density Filter",150,400,700
+"3142",NA,NA,"0.1 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3143",NA,NA,"0.2 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3144",NA,NA,"0.3 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3145",NA,NA,"0.4 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3146",NA,NA,"0.5 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3147",NA,NA,"0.6 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3148",NA,NA,"0.7 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3149",NA,NA,"0.8 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3150",NA,NA,"0.9 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3151",NA,NA,"1.0 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3152",NA,NA,"2.0 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3153",NA,NA,"3.0 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3154",NA,NA,"4.0 OD 100 x 300mm, Neutral Density Filter",350,400,700
+"3163",NA,NA,"0.2 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3164",NA,NA,"0.3 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3165",NA,NA,"0.4 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3166",NA,NA,"0.5 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3167",NA,NA,"0.6 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3168",NA,NA,"0.7 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3169",NA,NA,"0.8 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3170",NA,NA,"0.9 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3171",NA,NA,"1.0 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3172",NA,NA,"2.0 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3173",NA,NA,"3.0 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3174",NA,NA,"4.0 OD 12.5mm Diameter, Laminated Wratten Filter",40,400,700
+"3175",NA,NA,"0.1 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3176",NA,NA,"0.2 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3177",NA,NA,"0.3 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3178",NA,NA,"0.4 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3179",NA,NA,"0.5 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3180",NA,NA,"0.6 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3181",NA,NA,"0.7 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3182",NA,NA,"0.8 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3183",NA,NA,"0.9 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3184",NA,NA,"1.0 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3185",NA,NA,"2.0 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3186",NA,NA,"3.0 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3187",NA,NA,"4.0 OD 25mm Diameter, Laminated Wratten Filter",69,400,700
+"3188",NA,NA,"0.1 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3189",NA,NA,"0.2 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3190",NA,NA,"0.3 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3191",NA,NA,"0.4 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3192",NA,NA,"0.6 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3193",NA,NA,"0.7 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3194",NA,NA,"0.8 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3195",NA,NA,"0.9 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3196",NA,NA,"1.0 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3197",NA,NA,"2.0 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3198",NA,NA,"3.0 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3199",NA,NA,"4.0 OD 50mm Diameter, Laminated Wratten Filter",95,400,700
+"3200",NA,NA,"0.1 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3201",NA,NA,"0.2 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3202",NA,NA,"0.3 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3203",NA,NA,"0.4 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3204",NA,NA,"0.5 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3205",NA,NA,"0.6 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3206",NA,NA,"0.7 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3207",NA,NA,"0.8 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3208",NA,NA,"0.9 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3209",NA,NA,"1.0 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3210",NA,NA,"2.0 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3211",NA,NA,"3.0 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3212",NA,NA,"4.0 OD 50mm Square, Laminated Wratten Filter",105,400,700
+"3228",200,2000,"400nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3229",200,2000,"400nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3230",200,2000,"400nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3231",200,2000,"425nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3232",200,2000,"425nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3233",200,2000,"425nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3234",200,2000,"450nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3235",200,2000,"450nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3236",200,2000,"450nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3237",200,2000,"475nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3238",200,2000,"475nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3239",200,2000,"475nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3240",200,2000,"500nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3241",200,2000,"500nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3242",200,2000,"500nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3243",200,2000,"525nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3244",200,2000,"525nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3245",200,2000,"525nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3246",415,2000,"550nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3247",415,2000,"550nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3248",415,2000,"550nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3249",440,2000,"575nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3250",440,2000,"575nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3251",440,2000,"575nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3252",460,2000,"600nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3253",460,2000,"600nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3254",460,2000,"600nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3255",485,2000,"625nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3256",485,2000,"625nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3257",485,2000,"625nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3258",495,2000,"650nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3259",495,2000,"650nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3260",495,2000,"650nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3261",520,2000,"675nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3262",520,2000,"675nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3263",520,2000,"675nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3264",535,2000,"700nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3265",535,2000,"700nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3266",535,2000,"700nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3267",560,2000,"725nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3268",560,2000,"725nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3269",560,2000,"725nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3270",565,2000,"750nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3271",565,2000,"750nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3272",565,2000,"750nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3273",590,2000,"775nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3274",590,2000,"775nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3275",590,2000,"775nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3276",600,2000,"800nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3277",600,2000,"800nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3278",600,2000,"800nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3279",625,2000,"825nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3280",625,2000,"825nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3281",625,2000,"825nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3282",635,2000,"850nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3283",635,2000,"850nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3284",635,2000,"850nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3285",660,2000,"875nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3286",660,2000,"875nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3287",660,2000,"875nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3288",675,2000,"900nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3289",675,2000,"900nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3290",675,2000,"900nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3291",700,2000,"925nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3292",700,2000,"925nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3293",700,2000,"925nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3294",715,2000,"950nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3295",715,2000,"950nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3296",715,2000,"950nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3297",735,2000,"975nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3298",735,2000,"975nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3299",735,2000,"975nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3300",750,2000,"1000nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3301",750,2000,"1000nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3302",750,2000,"1000nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3303",780,2000,"1025nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3304",780,2000,"1025nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3305",780,2000,"1025nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3306",790,2000,"1050nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3307",790,2000,"1050nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3308",709,2000,"1050nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3309",820,2000,"1075nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3310",820,2000,"1075nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3311",820,2000,"1075nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3312",825,2000,"1100nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3313",825,2000,"1100nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3314",825,2000,"1100nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3315",860,2000,"1125nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3316",860,2000,"1125nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3317",860,2000,"1125nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3318",875,2000,"1150nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3319",875,2000,"1150nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3320",875,2000,"1150nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3321",900,2000,"1175nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3322",900,2000,"1175nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3323",900,2000,"1175nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3324",920,2000,"1200nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3325",920,2000,"1200nm 25mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3326",920,2000,"1200nm 50mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3327",960,2000,"1250nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3328",960,2000,"1250nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3329",960,2000,"1250nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3330",1010,2000,"1300nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3331",1010,2000,"1300nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3332",1010,2000,"1300nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3333",1055,2000,"1350nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3334",1055,2000,"1350nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3335",1055,2000,"1350nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3336",1105,2000,"1400nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3337",1105,2000,"1400nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3338",1105,2000,"1400nm 50.0mm Diameter, OD 2 Longpass Filter ",195,NA,NA
+"3339",1150,2000,"1450nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3340",1150,2000,"1450nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3341",1150,2000,"1450nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3342",1200,2000,"1500nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3343",1200,2000,"1500nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3344",1200,2000,"1500nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3345",1225,2000,"1550nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3346",1225,2000,"1550nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3347",1225,2000,"1550nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3348",1300,2000,"1600nm 12.5mm Diameter, OD 2 Longpass Filter",89,NA,NA
+"3349",1300,2000,"1600nm 25.0mm Diameter, OD 2 Longpass Filter",125,NA,NA
+"3350",1300,2000,"1600nm 50.0mm Diameter, OD 2 Longpass Filter",195,NA,NA
+"3664",250,485,"400nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3665",250,545,"450nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3666",250,610,"500nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3667",400,725,"550nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3668",400,795,"600nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3669",400,850,"650nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3670",725,900,"700nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3671",400,990,"750nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3672",400,1050,"800nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3673",400,1110,"850nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3674",425,1170,"900nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3675",450,1235,"950nm M25.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3676",250,485,"400nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3677",250,545,"450nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3678",250,610,"500nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3679",400,725,"550nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3680",400,795,"600nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3681",400,850,"650nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3682",400,900,"700nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3683",400,990,"750nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3684",400,1050,"800nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3685",400,1110,"850nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3686",425,1170,"900nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3687",450,1235,"950nm M30.5 x 0.5 Mounted Shortpass Filter",125,NA,NA
+"3688",200,2000,"400nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3689",200,2000,"450nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3690",200,2000,"500nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3691",415,2000,"550nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3692",460,2000,"600nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3693",495,2000,"650nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3694",535,2000,"700nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3695",565,2000,"750nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3696",600,2000,"800nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3697",635,2000,"850nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3698",675,2000,"900nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3699",715,2000,"950nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3700",825,2000,"1100nm M25.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3701",200,2000,"400nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3702",200,2000,"450nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3703",200,2000,"500nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3704",415,2000,"550nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3705",460,2000,"600nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3706",495,2000,"650nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3707",535,2000,"700nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3708",565,2000,"750nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3709",600,2000,"800nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3710",635,2000,"850nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3711",675,2000,"900nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3712",715,2000,"950nm M30.5 x 0.5 Mounted Longpass Filter",125,NA,NA
+"3713",NA,NA,"400-700nm OD 0.1, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3714",NA,NA,"400-700nm OD 0.15, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3715",NA,NA,"400-700nm OD 0.2, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3716",NA,NA,"400-700nm OD 0.3, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3717",NA,NA,"400-700nm OD 0.4, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3718",NA,NA,"400-700nm OD 0.5, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3719",NA,NA,"400-700nm OD 0.6, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3720",NA,NA,"400-700nm OD 0.7, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3721",NA,NA,"400-700nm OD 0.9, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3722",NA,NA,"400-700nm OD 1.0, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3723",NA,NA,"400-700nm OD 1.3, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3724",NA,NA,"400-700nm OD 1.5, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3725",NA,NA,"400-700nm OD 2.0, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3726",NA,NA,"400-700nm OD 2.5, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3727",NA,NA,"400-700nm OD 3.0, M25.5 x 0.5 Absorptive ND Filter",59,400,700
+"3728",NA,NA,"400-700nm OD 0.1, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3729",NA,NA,"400-700nm OD 0.15, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3730",NA,NA,"400-700nm OD 0.2, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3731",NA,NA,"400-700nm OD 0.3, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3732",NA,NA,"400-700nm OD 0.4, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3733",NA,NA,"400-700nm OD 0.5, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3734",NA,NA,"400-700nm OD 0.6, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3735",NA,NA,"400-700nm OD 0.7, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3736",NA,NA,"400-700nm OD 0.9, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3737",NA,NA,"400-700nm OD 1.0, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3738",NA,NA,"400-700nm OD 1.3, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3739",NA,NA,"400-700nm OD 1.5, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3740",NA,NA,"400-700nm OD 2.0, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3741",NA,NA,"400-700nm OD 2.5, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3742",NA,NA,"400-700nm OD 3.0, M30.5 x 0.5 Absorptive ND Filter",59,400,700
+"3743",NA,NA,"700-1200nm OD 0.3, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3744",NA,NA,"700-1200nm OD 0.5, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3745",NA,NA,"700-1200nm OD 0.6, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3746",NA,NA,"700-1200nm OD 0.9, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3747",NA,NA,"700-1200nm OD 1.0, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3748",NA,NA,"700-1200nm OD 1.3, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3749",NA,NA,"700-1200nm OD 1.5, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3750",NA,NA,"700-1200nm OD 2.0, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3751",NA,NA,"700-1200nm OD 2.5, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3752",NA,NA,"700-1200nm OD 3.0, M25.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3753",NA,NA,"700-1200nm OD 0.3, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3754",NA,NA,"700-1200nm OD 0.5, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3755",NA,NA,"700-1200nm OD 0.6, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3756",NA,NA,"700-1200nm OD 0.9, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3757",NA,NA,"700-1200nm OD 1.0, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3758",NA,NA,"700-1200nm OD 1.3, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3759",NA,NA,"700-1200nm OD 1.5, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3760",NA,NA,"700-1200nm OD 2.0, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3761",NA,NA,"700-1200nm OD 2.5, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3762",NA,NA,"700-1200nm OD 3.0, M30.5 x 0.5 Non-Reflective ND Filter",119,700,1200
+"3853",NA,NA,"0.3 OD M22.5 x 0.50, Mounted Absorptive ND Filter",29,400,700
+"3854",NA,NA,"0.6 OD M22.5 x 0.50, Mounted Absorptive ND Filter",29,400,700
+"3855",NA,NA,"0.9 OD M22.5 x 0.50, Mounted Absorptive ND Filter",29,400,700
+"3856",NA,NA,"0.3 OD M25.5 x 0.50, Mounted Absorptive ND Filter",30,400,700
+"3857",NA,NA,"0.6 OD M25.5 x 0.50, Mounted Absorptive ND Filter",30,400,700
+"3858",NA,NA,"0.9 OD M25.5 x 0.50, Mounted Absorptive ND Filter",30,400,700
+"3859",NA,NA,"0.3 OD M30.5 x 0.50, Mounted Absorptive ND Filter",32,400,700
+"3860",NA,NA,"0.6 OD M30.5 x 0.50, Mounted Absorptive ND Filter",32,400,700
+"3861",NA,NA,"0.9 OD M30.5 x 0.50, Mounted Absorptive ND Filter",32,400,700
+"3862",NA,NA,"0.3 OD M37.0 x 0.75, Mounted Absorptive ND Filter",34,400,700
+"3863",NA,NA,"0.6 OD M37.0 x 0.75, Mounted Absorptive ND Filter",34,400,700
+"3864",NA,NA,"0.9 OD M37.0 x 0.75, Mounted Absorptive ND Filter",34,400,700
+"3865",NA,NA,"0.3 OD M39.0 x 0.50, Mounted Absorptive ND Filter",35,400,700
+"3866",NA,NA,"0.6 OD M39.0 x 0.50, Mounted Absorptive ND Filter",35,400,700
+"3867",NA,NA,"0.9 OD M39.0 x 0.50, Mounted Absorptive ND Filter",32,400,700
+"3868",NA,NA,"0.6 OD M40.5 x 0.50, Mounted Absorptive ND Filter",15,400,700
+"3869",NA,NA,"0.3 OD M46.0 x 0.75, Mounted Absorptive ND Filter",37.5,400,700
+"3870",NA,NA,"0.6 OD M46.0 x 0.75, Mounted Absorptive ND Filter",37.5,400,700
+"3871",NA,NA,"0.9 OD M46.0 x 0.75, Mounted Absorptive ND Filter",37.5,400,700
+"3872",NA,NA,"0.3 OD M49.0 x 0.75, Mounted Absorptive ND Filter",39,400,700
+"3873",NA,NA,"0.6 OD M49.0 x 0.75, Mounted Absorptive ND Filter",39,400,700
+"3874",NA,NA,"0.9 OD M49.0 x 0.75, Mounted Absorptive ND Filter",39,400,700
+"3875",NA,NA,"0.3 OD M52.0 x 0.75, Mounted Absorptive ND Filter",39,400,700
+"3876",NA,NA,"0.6 OD M52.0 x 0.75, Mounted Absorptive ND Filter",39,400,700
+"3877",NA,NA,"0.9 OD M52.0 x 0.75, Mounted Absorptive ND Filter",39,400,700
+"3878",NA,NA,"0.3 OD M55.0 x 0.75, Mounted Absorptive ND Filter",41,400,700
+"3879",NA,NA,"0.6 OD M55.0 x 0.75, Mounted Absorptive ND Filter",41,400,700
+"3880",NA,NA,"0.9 OD M55.0 x 0.75, Mounted Absorptive ND Filter",41,400,700
+"3881",NA,NA,"0.3 OD M58.0 x 0.75, Mounted Absorptive ND Filter",43,400,700
+"3882",NA,NA,"0.6 OD M58.0 x 0.75, Mounted Absorptive ND Filter",43,400,700
+"3883",NA,NA,"0.9 OD M58.0 x 0.75, Mounted Absorptive ND Filter",43,400,700
+"3884",NA,NA,"0.3 OD M62.0 x 0.75, Mounted Absorptive ND Filter",45,400,700
+"3885",NA,NA,"0.6 OD M62.0 x 0.75, Mounted Absorptive ND Filter",45,400,700
+"3886",NA,NA,"0.9 OD M62.0 x 0.75, Mounted Absorptive ND Filter",45,400,700
+"3887",NA,NA,"0.3 OD M72.0 x 0.75, Mounted Absorptive ND Filter",60,400,700
+"3888",NA,NA,"0.6 OD M72.0 x 0.75, Mounted Absorptive ND Filter",60,400,700
+"3889",NA,NA,"0.9 OD M72.0 x 0.75, Mounted Absorptive ND Filter",60,400,700
+"3890",NA,NA,"0.3 OD M77.0 x 0.75, Mounted Absorptive ND Filter",65,400,700
+"3891",NA,NA,"0.6 OD M77.0 x 0.75, Mounted Absorptive ND Filter",65,400,700
+"3892",NA,NA,"0.9 OD M77.0 x 0.75, Mounted Absorptive ND Filter",65,400,700
+"3893",400,700,"Mounted M22.5 x 0.5 Threaded - Blue Filter",39,NA,NA
+"3894",400,700,"Mounted M25.5 x 0.5 Threaded - Blue Filter",39,NA,NA
+"3895",400,700,"Mounted M30.5 x 0.5 Threaded - Blue Filter",45,NA,NA
+"3896",400,700,"Mounted M40.5 x 0.5 Threaded - Blue Filter",36.5,NA,NA
+"3897",400,700,"Mounted M43 x 0.75 Threaded - Blue Filter",45,NA,NA
+"3898",400,700,"Mounted M46 x 0.75 Threaded - Blue Filter",47.5,NA,NA
+"3899",400,700,"Mounted M49 x 0.75 Threaded - Blue Filter",47.5,NA,NA
+"3900",400,700,"Mounted M52 x 0.75 Threaded - Blue Filter",47.5,NA,NA
+"3901",400,700,"Mounted M58 x 0.75 Threaded - Blue Filter",47.5,NA,NA
+"3902",400,700,"Mounted M46 x 0.75 Threaded - Daylight Blue Filter",47.5,NA,NA
+"3903",400,700,"Mounted M49 x 0.75 Threaded - Daylight Blue Filter",47.5,NA,NA
+"3904",400,700,"Mounted M52 x 0.75 Threaded - Daylight Blue Filter",47.5,NA,NA
+"3905",400,700,"Mounted M58 x 0.75 Threaded - Daylight Blue Filter",47.5,NA,NA
+"3906",400,700,"Mounted M62 x 0.75  Threaded - Daylight Blue Filter",51.5,NA,NA
+"3907",400,700,"Mounted M72 x 0.75  Threaded - Daylight Blue Filter",57.5,NA,NA
+"3908",400,700,"Mounted M22.5 x 0.5 Threaded - Green Filter",39,NA,NA
+"3909",400,700,"Mounted M25.5 x 0.5 Threaded - Green Filter",39,NA,NA
+"3910",400,700,"Mounted M30.5 x 0.5 Threaded - Green Filter",45,NA,NA
+"3911",400,700,"Mounted M46 x 0.75 Threaded - Green Filter",47.5,NA,NA
+"3912",400,700,"Mounted M49 x 0.75 Threaded - Green Filter",47.5,NA,NA
+"3913",400,700,"Mounted M52 x 0.75 Threaded - Green Filter",47.5,NA,NA
+"3914",400,700,"Mounted M58 x 0.75 Threaded - Green Filter",47.5,NA,NA
+"3915",400,700,"Mounted M62 x 0.75  Threaded - Green Filter",51.5,NA,NA
+"3916",400,700,"Mounted M72 x 0.75  Threaded - Green Filter",57.5,NA,NA
+"3917",400,700,"Mounted M22.5 x 0.5 Threaded - Red Filter",39,NA,NA
+"3918",400,700,"Mounted M25.5 x 0.5 Threaded - Red Filter",39,NA,NA
+"3919",400,700,"Mounted M30.5 x 0.5 Threaded - Red Filter",45,NA,NA
+"3920",400,700,"Mounted M46 x 0.75 Threaded - Red Filter",47.5,NA,NA
+"3921",400,700,"Mounted M49 x 0.75 Threaded - Red Filter",47.5,NA,NA
+"3922",400,700,"Mounted M52 x 0.75 Threaded - Red Filter",47.5,NA,NA
+"3923",400,700,"Mounted M58 x 0.75 Threaded - Red Filter",47.5,NA,NA
+"3924",400,700,"Mounted M62 x 0.75  Threaded - Red Filter",51.5,NA,NA
+"3925",400,700,"Mounted M72 x 0.75  Threaded - Red Filter",57.5,NA,NA
+"3926",400,700,"Mounted M37 x 0.75 Threaded - Red Filter",47.5,NA,NA
+"3927",400,700,"Mounted M37 x 0.75 Threaded - Blue Filter",47.5,NA,NA
+"3928",400,700,"Mounted M39 x 0.5 Threaded - Red Filter",47.5,NA,NA
+"3929",400,700,"Mounted M39 x 0.5 Threaded - Green Filter",47.5,NA,NA
+"3930",400,700,"Mounted M39 x 0.5 Threaded - Blue Filter",47.5,NA,NA
+"3931",300,2700,"M25.5 x 0.5 Mounted IR Cut-Off Filter",160,NA,NA
+"3934",300,2700,"M30.5 x 0.5 Mounted IR Cut-Off Filter",160,NA,NA
+"3937",300,2700,"M37 x 0.75 Mounted IR Cut-Off Filter",165,NA,NA
+"3939",300,2700,"M39 x 0.5 Mounted IR Cut-Off Filter",165,NA,NA
+"3941",300,2700,"M40.5 x 0.5 Mounted IR Cut-Off Filter      ",170,NA,NA
+"3943",300,2700,"M43 x 0.75 Mounted IR Cut-Off Filter         ",170,NA,NA
+"3945",300,2700,"M46 x 0.75 Mounted IR Cut-Off Filter",170,NA,NA
+"3948",300,2700,"M49 x 0.75 Mounted IR Cut-Off Filter",175,NA,NA
+"3951",300,2700,"M52 x 0.75 Mounted IR Cut-Off Filter",185,NA,NA
+"3954",300,2700,"M58 x 0.75 Mounted IR Cut-Off Filter",185,NA,NA
+"3957",300,2700,"M62 x 0.75 Mounted IR Cut-Off Filter        ",230,NA,NA
+"3961",400,700,"M22.5 x 0.5 Mounted Linear Glass Polarizing Filter",29,NA,NA
+"3962",400,700,"M25.5 x 0.5 Mounted Linear Glass Polarizing Filter",29,NA,NA
+"3963",400,700,"M27 x 0.5 Mounted Linear Glass Polarizing Filter",29,NA,NA
+"3964",400,700,"M30.5 x 0.5 Mounted Linear Glass Polarizing Filter",31,NA,NA
+"3965",400,700,"M34 x 0.5 Mounted Linear Glass Polarizing Filter",32,NA,NA
+"3966",400,700,"M35.5 x 0.5 Mounted Linear Glass Polarizing Filter",33,NA,NA
+"3967",400,700,"M37 x 0.75 Mounted Linear Glass Polarizing Filter",33,NA,NA
+"3968",400,700,"M37.5 x 0.5 Mounted Linear Glass Polarizing Filter",33,NA,NA
+"3969",400,700,"M40.5 x 0.5 Mounted Linear Glass Polarizing Filter",35,NA,NA
+"3970",400,700,"M42 x 0.75 Mounted Linear Glass Polarizing Filter",35,NA,NA
+"3971",400,700,"M43 x 0.75 Mounted Linear Glass Polarizing Filter",35,NA,NA
+"3972",400,700,"M46 x 0.75 Mounted Linear Glass Polarizing Filter",36,NA,NA
+"3973",400,700,"M48 x 0.75 Mounted Linear Glass Polarizing Filter",37,NA,NA
+"3974",400,700,"M49 x 0.75 Mounted Linear Glass Polarizing Filter",37,NA,NA
+"3975",400,700,"M52 x 0.75 Mounted Linear Glass Polarizing Filter",38,NA,NA
+"3976",400,700,"M55 x 0.75 Mounted Linear Glass Polarizing Filter",38,NA,NA
+"3977",400,700,"M58 x 0.75 Mounted Linear Glass Polarizing Filter",39,NA,NA
+"3978",400,700,"M62 x 0.75 Mounted Linear Glass Polarizing Filter",39,NA,NA
+"3979",400,700,"M67 x 0.75 Mounted Linear Glass Polarizing Filter",43,NA,NA
+"3980",400,700,"M72 x 0.75 Mounted Linear Glass Polarizing Filter",43,NA,NA
+"3981",400,700,"M77 x 0.75 Mounted Linear Glass Polarizing Filter",63,NA,NA
+"3982",400,700,"M86 x 1.00 Mounted Linear Glass Polarizing Filter",120,NA,NA
+"3983",400,700,"M105 x 1.00 Mounted Linear Glass Polarizing Filter",199,NA,NA
+"3984",350,2200,"Mounted M22.5 x 0.5 - UV Cut-Off Filter",25,NA,NA
+"3985",350,2200,"Mounted M25.5 x 0.5 - UV Cut-Off Filter",30,NA,NA
+"3986",350,2200,"Mounted M27 x 0.5 - UV Cut-Off Filter",30,NA,NA
+"3987",350,2200,"Mounted M30.5 x 0.5 - UV Cut-Off Filter",30,NA,NA
+"3988",350,2200,"Mounted M34 x 0.5 - UV Cut-Off Filter",30,NA,NA
+"3989",350,2200,"Mounted M37 x 0.75 - UV Cut-Off Filter",30,NA,NA
+"3990",350,2200,"Mounted M37.5 x 0.5 - UV Cut-Off Filter",30,NA,NA
+"3991",350,2200,"Mounted M39 x 0.5 - UV Cut-Off Filter",31,NA,NA
+"3992",350,2200,"Mounted M40.5 x 0.5 - UV Cut-Off Filter",31,NA,NA
+"3993",350,2200,"Mounted M43 x 0.75 - UV Cut-Off Filter",31,NA,NA
+"3994",350,2200,"Mounted M46 x 0.75 - UV Cut-Off Filter",31,NA,NA
+"3995",350,2200,"Mounted M48 x 0.75 - UV Cut-Off Filter",31,NA,NA
+"3996",350,2200,"Mounted M49 x 0.75 - UV Cut-Off Filter",31,NA,NA
+"3997",350,2200,"Mounted M52 x 0.75 - UV Cut-Off Filter",33,NA,NA
+"3998",350,2200,"Mounted M55 x 0.75 - UV Cut-Off Filter",33,NA,NA
+"3999",350,2200,"Mounted M58 x 0.75 - UV Cut-Off Filter",33,NA,NA
+"4000",350,2200,"Mounted M62 x 0.75 - UV Cut-Off Filter",36,NA,NA
+"4001",350,2200,"Mounted M67 x 0.75 - UV Cut-Off Filter",41,NA,NA
+"4002",350,2200,"Mounted M72 x 0.75 - UV Cut-Off Filter",36,NA,NA
+"4003",350,2200,"Mounted M77 x 0.75 - UV Cut-Off Filter",59,NA,NA
+"4004",350,2200,"Mounted M86 x 1.0 - UV Cut-Off Filter",95,NA,NA
+"4005",350,2200,"Mounted M105 x 1.0 - UV Cut-Off Filter",129,NA,NA
+"4006",NA,NA,"433 & 530nm, 12.5mm Dia., Dual-Band Filter",250,250,1100
+"4007",NA,NA,"433 & 530nm, 25mm Dia., Dual-Band Filter",335,250,1100
+"4008",NA,NA,"433 & 530nm, 50mm Dia., Dual-Band Filter",825,250,1100
+"4009",NA,NA,"512 & 630nm, 12.5mm Dia., Dual-Band Filter",250,250,1100
+"4010",NA,NA,"512 & 630nm, 25mm Dia., Dual-Band Filter",335,250,1100
+"4011",NA,NA,"512 & 630nm, 50mm Dia., Dual-Band Filter",825,250,1100
+"4012",NA,NA,"432, 517 & 615nm, 12.5mm Dia., Tri-Band Filter",275,250,1100
+"4013",NA,NA,"432, 517 & 615nm, 25mm Dia., Tri-Band Filter",375,250,1100
+"4014",NA,NA,"432, 517 & 615nm, 50mm Dia., Tri-Band Filter",925,250,1100
+"4015",NA,NA,"457, 530 & 628nm, 12.5mm Dia., Tri-Band Filter",275,250,1100
+"4016",NA,NA,"457, 530 & 628nm, 25mm Dia., Tri-Band Filter",375,250,1100
+"4017",NA,NA,"457, 530 & 628nm, 50mm Dia., Tri-Band Filter",925,250,1100
+"4018",NA,NA,"524 & 628nm, 12.5mm Dia., Dual-Band Filter",250,250,1100
+"4019",NA,NA,"524 & 628nm, 25mm Dia., Dual-Band Filter",335,250,1100
+"4020",NA,NA,"464, 542 & 639nm, 12.5mm Dia., Tri-Band Filter",275,250,1100
+"4021",NA,NA,"464, 542 & 639nm, 25mm Dia., Tri-Band Filter",375,250,1100
+"4022",NA,NA,"464, 542 & 639nm, 50mm Dia., Tri-Band Filter",925,250,1100
+"4023",NA,NA,"440, 521, 607 & 700nm, 12.5mm Dia., Quad-Band Filter",310,250,1100
+"4024",NA,NA,"440, 521, 607 & 700nm, 25mm Dia., Quad-Band Filter",425,250,1100
+"4025",NA,NA,"440, 521, 607 & 700nm, 50mm Dia., Quad-Band Filter",1050,250,1100
+"4026",NA,NA,"577 & 690nm, 12.5mm Dia., Dual-Band Filter",250,250,1100
+"4027",NA,NA,"577 & 690nm, 25mm Dia., Dual-Band Filter",335,250,1100
+"4028",NA,NA,"577 & 690nm, 50mm Dia., Dual-Band Filter",825,250,1100
+"4029",350,700,"403 & 502nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",125,NA,NA
+"4030",350,700,"403 & 502nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4031",350,700,"403 & 502nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4032",400,700,"493 & 574nm, 12.5mm Dia., Multi-Edge Dichroic Filter",125,NA,NA
+"4033",400,700,"493 & 574nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",125,NA,NA
+"4034",400,700,"493 & 574nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4035",400,700,"493 & 574nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4036",400,700,"505 & 606nm, 12.5mm Dia., Multi-Edge Dichroic Filter",125,NA,NA
+"4037",400,700,"505 & 606nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",125,NA,NA
+"4038",400,700,"505 & 606nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4039",500,725,"560 & 659nm, 12.5mm Dia., Multi-Edge Dichroic Filter",125,NA,NA
+"4040",500,725,"560 & 659nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",125,NA,NA
+"4041",500,725,"560 & 659nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4042",500,725,"560 & 659nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4043",375,700,"403, 497 & 574nm, 12.5mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4044",375,700,"403, 497 & 574nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4045",375,700,"403, 497 & 574nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4046",375,700,"403, 497 & 574nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4047",375,700,"436, 514 & 604nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4048",375,700,"436, 514 & 604nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4049",375,700,"436, 514 & 604nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4050",400,700,"444, 521 & 608nm, 12.5mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4051",400,700,"444, 521 & 608nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4052",400,700,"444, 521 & 608nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4053",400,700,"444, 521 & 608nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"4054",375,725,"410, 504, 582 & 669nm, 12.5mm Dia., Multi-Edge Dichroic Filter",125,NA,NA
+"4055",375,725,"410, 504, 582 & 669nm, 12.5 x 17.6mm, Multi-Edge Dichroic Filter",125,NA,NA
+"4056",375,725,"410, 504 / 582 & 669nm, 25.0mm Dia., Multi-Edge Dichroic Filter",150,NA,NA
+"4057",375,725,"410, 504, 582 & 669nm, 25.2 x 35.6mm, Multi-Edge Dichroic Filter",150,NA,NA
+"5420",300,2700,"12.5 x 12.5mm KG-1 Heat Absorbing Glass",23.5,NA,NA
+"5421",300,2700,"12.5mm Dia. KG-1 Heat Absorbing Glass",23.5,NA,NA
+"5422",300,2700,"25mm Dia. KG-1 Heat Absorbing Glass",30.5,NA,NA
+"5423",300,2700,"25 x 25mm KG-1 Heat Absorbing Glass",30.5,NA,NA
+"5424",300,2700,"50mm Dia. KG-1 Heat Absorbing Glass",61.5,NA,NA
+"5425",300,2700,"50 x 50mm KG-1 Heat Absorbing Glass",61.5,NA,NA
+"5426",300,2700,"75 x 75mm KG-1 Heat Absorbing Glass",142.5,NA,NA
+"5427",300,2700,"12.5mm Dia. KG-3 Heat Absorbing Glass",23.5,NA,NA
+"5428",300,2700,"25mm Dia. KG-3 Heat Absorbing Glass",36.5,NA,NA
+"5429",300,2700,"25 x 25mm KG-3 Heat Absorbing Glass",36.5,NA,NA
+"5430",300,2700,"50mm Dia. KG-3 Heat Absorbing Glass",72.5,NA,NA
+"5431",300,2700,"50 x 50mm KG-3 Heat Absorbing Glass",72.5,NA,NA
+"5432",300,2700,"12.5mm Dia. KG-5 Heat Absorbing Glass",25.5,NA,NA
+"5433",300,2700,"25mm Dia. KG-5 Heat Absorbing Glass",41.5,NA,NA
+"5434",300,2700,"25 x 25mm KG-5 Heat Absorbing Glass",41.5,NA,NA
+"5435",300,2700,"50mm Dia. KG-5 Heat Absorbing Glass",82.5,NA,NA
+"5436",300,2700,"50 x 50mm KG-5 Heat Absorbing Glass",82.5,NA,NA
+"5437",250,485,"400nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5438",250,485,"400nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5439",250,485,"400nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5440",250,510,"425nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5441",250,510,"425nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5442",250,510,"425nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5443",250,545,"450nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5444",250,545,"450nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5445",250,545,"450nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5446",250,570,"475nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5447",250,570,"475nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5448",250,570,"475nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5449",250,610,"500nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5450",250,610,"500nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5451",250,610,"500nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5452",250,635,"525nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5453",250,635,"525nm 25mm Diameter, UV Enhanced OD 2 Shortpass Filter",125,NA,NA
+"5454",250,635,"525nm 50mm Diameter, UV Enhanced OD 2 Shortpass Filter",195,NA,NA
+"5455",400,725,"550nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5456",400,725,"550nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5457",250,665,"550nm 12.5mm Diameter, UV Enhanced OD 2 Shortpass Filter",89,NA,NA
+"5458",250,655,"550nm 25mm Diameter, UV Enhanced OD 2 Shortpass Filter",125,NA,NA
+"5459",400,725,"550nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5460",400,750,"575nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5461",400,750,"575nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5462",400,750,"575nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5463",400,795,"600nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5464",400,795,"600nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5465",400,795,"600nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5466",400,820,"625nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5467",400,820,"625nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5468",400,820,"625nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5469",400,850,"650nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5470",400,850,"650nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5471",400,850,"650nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5472",400,875,"675nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5473",400,875,"675nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5474",400,875,"675nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5475",400,900,"700nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5476",400,900,"700nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5477",400,900,"700nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5478",400,925,"725nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5479",400,925,"725nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5480",400,925,"725nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5481",400,990,"750nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5482",400,990,"750nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5483",400,990,"750nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5484",400,1015,"775nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5485",400,1015,"775nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5486",400,1015,"775nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5487",400,1050,"800nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5488",400,1050,"800nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5489",400,1050,"800nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5490",400,1080,"825nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5491",400,1080,"825nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5492",400,1080,"825nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5493",400,1110,"850nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5494",400,1110,"850nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5495",400,1110,"850nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5496",425,1135,"875nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5497",425,1135,"875nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5498",425,1135,"875nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5499",425,1170,"900nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5500",425,1170,"900nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5501",425,1170,"900nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5502",450,1200,"925nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5503",450,1200,"925nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5504",450,1200,"925nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5505",450,1235,"950nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5506",450,1235,"950nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5507",450,1235,"950nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5508",450,1265,"975nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5509",450,1265,"975nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5510",450,1265,"975nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5511",465,1305,"1000nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5512",465,1305,"1000nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5513",465,1305,"1000nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5514",475,1340,"1025nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5515",475,1340,"1025nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5516",475,1340,"1025nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5517",485,1370,"1050nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5518",485,1370,"1050nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5519",485,1370,"1050nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5520",500,1410,"1075nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5521",500,1410,"1075nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5522",500,1410,"1075nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5523",510,1440,"1100nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5524",510,1440,"1100nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5525",510,1440,"1100nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5526",525,1470,"1125nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5527",525,1470,"1125nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5528",525,1470,"1125nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5529",525,1510,"1150nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5530",525,1510,"1150nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5531",525,1510,"1150nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5532",550,1540,"1175nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5533",550,1540,"1175nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5534",550,1540,"1175nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5535",550,1575,"1200nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5536",550,1575,"1200nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5537",550,1575,"1200nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5538",575,1625,"1250nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5539",575,1625,"1250nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5540",575,1625,"1250nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5541",600,1675,"1300nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5542",600,1675,"1300nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5543",600,1675,"1300nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5544",625,1750,"1350nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5545",625,1750,"1350nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5546",625,1750,"1350nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5547",660,1800,"1400nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5548",660,1800,"1400nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5549",660,1800,"1400nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5550",695,1850,"1450nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5551",695,1850,"1450nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5552",695,1850,"1450nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5553",725,1910,"1500nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5554",725,1910,"1500nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5555",725,1910,"1500nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5556",765,1960,"1550nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5557",765,1960,"1550nm 25mm Diameter, OD 2 Shortpass Filter",125,NA,NA
+"5558",765,1960,"1550nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5559",810,2025,"1600nm 12.5mm Diameter, OD 2 Shortpass Filter",89,NA,NA
+"5560",810,2025,"1600nm 25mm Diameter , OD 2 Shortpass Filter",125,NA,NA
+"5561",810,2025,"1600nm 50mm Diameter, OD 2 Shortpass Filter",195,NA,NA
+"5562",350,2500,"12.5mm Diameter, 700nm Cut-On SWIR Longpass Filter",52.5,NA,NA
+"5563",350,2500,"25mm Diameter, 700nm Cut-On SWIR Longpass Filter",75,NA,NA
+"5564",350,2500,"50mm Diameter, 700nm Cut-On SWIR Longpass Filter",127.5,NA,NA
+"5565",350,2500,"50 x 50mm, 700nm Cut-On SWIR Longpass Filter",155,NA,NA
+"5566",350,2500,"12.5mm Diameter, 850nm Cut-On SWIR Longpass Filter",52.5,NA,NA
+"5567",350,2500,"25mm Diameter, 850nm Cut-On SWIR Longpass Filter",75,NA,NA
+"5568",350,2500,"50mm Diameter, 850nm Cut-On SWIR Longpass Filter",127.5,NA,NA
+"5569",350,2500,"50 x 50mm, 850nm Cut-On SWIR Longpass Filter",155,NA,NA
+"6016",350,2200,"34mm Diameter, UV Cut-Off Filter",20,NA,NA
+"6017",350,2200,"43mm Diameter, UV Cut-Off Filter",20,NA,NA
+"6018",350,2200,"49mm Diameter, UV Cut-Off Filter",20,NA,NA
+"6019",350,2200,"52mm Diameter, UV Cut-Off Filter",20,NA,NA
+"6020",350,2200,"55mm Diameter, UV Cut-Off Filter",25,NA,NA
+"6021",350,2200,"59mm Diameter, UV Cut-Off Filter",25,NA,NA
+"6022",350,2200,"69mm Diameter, UV Cut-Off Filter",40,NA,NA

@@ -1,0 +1,4 @@
+Title,Stock Number,Price,Dia. (mm),CWL (nm),FWHM (nm),Minimum Transmission (%),Transmission (%),Blocking Wavelength Range (nm),Optical Density OD,CA (%),AOI (°),Coating,Mount Thickness (mm),Note,Substrate,Substrate Thickness (mm),Type
+"532nm CWL, 25.4mm Dia., OD 6 Ultra Narrow Filter",36-640,$1295,25.40 ,532 ,<1.2 ,>95 ," @ 532nm, >95% T(Abs) ","200 - 520nm, 544 - 1200nm ",6.00 ,>85 ,0 ,Hard Coated ,5.00 ,Filter Design: Multi-Cavity ,BOROFLOAT® ,2.00 ,Bandpass Filter 
+"780nm CWL, 25.4mm Dia., OD 6 Ultra Narrow Filter",36-641,$1295,25.40 ,780 ,<1.2 ,>90 ," @ 780nm, >90% T(Abs) ","390 - 769nm, 791 - 1000nm ",6.00 ,>85 ,0 ,Hard Coated ,5.00 ,Filter Design: Multi-Cavity ,BOROFLOAT® ,2.00 ,Bandpass Filter 
+"1064nm CWL, 25.4mm Dia., OD 7 Ultra Narrow Filter",36-642,$2095,25.40 ,1064 ,<1.2 ,>90 ," @ 1064nm, >90% T(Abs) ","300 - 1037nm, 1092 - 1100nm ",7.00 ,>85 ,0 ,Hard Coated ,5.00 ,Filter Design: Multi-Cavity ,BOROFLOAT® ,2.00 ,Bandpass Filter 
