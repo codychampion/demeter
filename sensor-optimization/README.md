@@ -7,7 +7,7 @@
 
 Historical follow-on work from `Demeter2` for simulating spectral sensor responses and exploring low-cost filter combinations for stress/control classification.
 
-This module is being folded into canonical `demeter` so the postdoc work has one public home. The original `Demeter2` repository should be treated as the source archive for this module until all files have been audited and migrated.
+This module is included in canonical `demeter` so the postdoc work has one coherent home. The original `Demeter2` repository remains the earlier companion archive for this module.
 
 ## What this module does
 
@@ -38,7 +38,7 @@ Known required inputs:
 - Range/blocking filter data equivalent to `ranges.csv`.
 - Pi camera response curves, originally expected at `pi-camera-response-curves-master/Sony_IMX219_spectral_response.csv`.
 - Spectral CSV archives, originally expected under `csv_archive/`.
-- A `dataformat()` helper, which was referenced by the original script but was not accessible through the connector during review.
+- A `dataformat()` helper, which was referenced by the original script but is not included here.
 
 ## Cleanup applied during merge
 
@@ -51,6 +51,6 @@ The cleaned module avoids several obvious issues found in `Demeter2/sensorv3.R`:
 - Added guards for sparse, constant, and all-NA vectors in simulation.
 - Documented missing inputs rather than pretending the workflow is fully runnable.
 
-## Public-release posture
+## Historical status
 
 This module strengthens the scientific story, but it should be presented as historical exploratory research until a reproducible toy dataset and dependency lockfile are added.
