@@ -1,0 +1,110 @@
+Title,Stock Number,Price,Blocking Wavelength Range (nm),CA (mm),Coating,Filter Thread,Color,CWL (nm),FWHM (nm),Note,Optical Density OD,Outer Diameter (mm),Substrate Thickness (mm),Transmission (%),Type,Wavelength Range (?m)
+Light Red M25.5 x 0.50 Imaging Filter,89-814,$135,200 - 1050 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,Light Red ,634 ,70.00 ,OD ?3.0 @ 200 - 550nm  OD ?4.0 @ 700 - 1050nm ,?3.0 ,27.5 ,1.75 ±0.10 ,93 avg ,Mounted Imaging Filter ,
+Dark Red M25.5 x 0.50 Machine Vision Filter,89-824,$135,200 - 1120 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,Dark Red ,660 ,66.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 720 - 1120nm ,?3.0 ,27.5 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Green M25.5 x 0.50 Imaging Filter,89-784,$145,200 - 1000 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,27.5 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Blue M25.5 x 0.50 Imaging Filter,89-764,$135,200 - 1200 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm OD ?4.0 @ 550 - 1200nm ,?3.0 ,27.5 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+UV/VIS Cut-Off  M25.5 x 0.50 Imaging Filter,89-834,$135,200 - 1200 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,UV/VIS Cut ,880 ,135.00 ,OD ?3.0 @ 200 - 750nm OD ?4.0 @ 1000 - 1200nm ,?3.0 ,27.5 ,1.75 ±0.10 ,96 avg ,Mounted Imaging Filter ,
+UV/IR Cut-Off M25.5 x 0.50 Machine Vision Filter,89-794,$135,200 - 1100 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,UV/IR Cut ,548 ,290.00 ,OD ?3.0 @ 200 - 370nm OD ?4.0 @ 750 - 1100nm ,?3.0 ,27.5 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+Light Red M30.5 x 0.50 Machine Vision Filter,89-815,$145,200 - 1050 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,Light Red ,634 ,70.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 700 - 1050nm ,?3.0 ,32.5 ,1.75 ±0.10 ,93 avg ,Mounted Imaging Filter ,
+Dark Red M30.5 x 0.50 Machine Vision Filter,89-825,$145,200 - 1120 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,Dark Red ,660 ,66.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 720 - 1120nm ,?3.0 ,32.5 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Green M30.5 x 0.50 Machine Vision Filter,89-785,$145,200 - 1000 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,32.5 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Blue M30.5 x 0.50 Machine Vision Filter,89-765,$145,200 - 1200 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm OD ?4.0 @ 550 - 1200nm ,?3.0 ,32.5 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+UV/VIS Cut-Off M30.5 x 0.50 Machine Vision Filter,89-835,$145,200 - 1200 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,UV/VIS Cut ,880 ,135.00 ,OD ?3.0 @ 200 - 750nm OD ?4.0 @ 1000 - 1200nm ,?3.0 ,32.5 ,1.75 ±0.10 ,96 avg ,Mounted Imaging Filter ,
+UV/IR Cut-Off M30.5 x 0.50 Machine Vision Filter,89-795,$145,200 - 1100 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,UV/IR Cut ,548 ,290.00 ,OD ?3.0 @ 200 - 370nm OD ?4.0 @ 750 - 1100nm ,?3.0 ,32.5 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+Light Red M40.5 x 0.50 Machine Vision Filter,89-818,$185,200 - 1050 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,Light Red ,634 ,70.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 700 - 1050nm ,?3.0 ,42.0 ,1.75 ±0.10 ,93 avg ,Mounted Imaging Filter ,
+Dark Red M40.5 x 0.50 Machine Vision Filter,89-828,$185,200 - 1120 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,Dark Red ,660 ,66.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 720 - 1120nm ,?3.0 ,42.0 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Green M40.5 x 0.50 Machine Vision Filter,89-788,$185,200 - 1000 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,42.0 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Blue M40.5 x 0.50 Machine Vision Filter,89-768,$185,200 - 1200 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm OD ?4.0 @ 550 - 1200nm ,?3.0 ,42.0 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+UV/VIS Cut-Off M40.5 x 0.50 Machine Vision Filter,89-838,$185,200 - 1200 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,UV/VIS Cut ,880 ,135.00 ,OD ?3.0 @ 200 - 750nm OD ?4.0 @ 1000 - 1200nm ,?3.0 ,42.0 ,1.75 ±0.10 ,96 avg ,Mounted Imaging Filter ,
+UV/IR Cut-Off M40.5 x 0.50 Machine Vision Filter,89-798,$185,200 - 1100 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,UV/IR Cut ,548 ,290.00 ,OD ?3.0 @ 200 - 370nm OD ?4.0 @ 750 - 1100nm ,?3.0 ,42.0 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+Light Red M43.0 x 0.75 Machine Vision Filter,89-819,$195,200 - 1050 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,Light Red ,634 ,70.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 700 - 1050nm ,?3.0 ,45.0 ,1.75 ±0.10 ,93 avg ,Mounted Imaging Filter ,
+Dark Red M43.0 x 0.75 Machine Vision Filter,89-829,$195,200 - 1120 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,Dark Red ,660 ,66.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 720 - 1120nm ,?3.0 ,45.0 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Green M43.0 x 0.75 Machine Vision Filter,89-789,$195,200 - 1000 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,45.0 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Blue M43.0 x 0.75 Machine Vision Filter,89-769,$195,200 - 1200 ,36.5 ,Hard Coated ,M43.0 x 0.75 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm OD ?4.0 @ 550 - 1200nm ,?3.0 ,42.0 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+UV/VIS Cut-Off M43.0 x 0.75 Machine Vision Filter,89-839,$195,200 - 1200 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,UV/VIS Cut ,880 ,135.00 ,OD ?3.0 @ 200 - 750nm OD ?4.0 @ 1000 - 1200nm ,?3.0 ,45.0 ,1.75 ±0.10 ,96 avg ,Mounted Imaging Filter ,
+UV/IR Cut-Off M43.0 x 0.75 Machine Vision Filter,89-799,$195,200 - 1100 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,UV/IR Cut ,548 ,290.00 ,OD ?3.0 @ 200 - 370nm OD ?4.0 @ 750 - 1100nm ,?3.0 ,45.0 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+Light Red M62.0 x 0.75 Imaging Filter,89-822,$325,200 - 1050 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,Light Red ,634 ,70.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 700 - 1050nm ,?3.0 ,65.0 ,1.75 ±0.10 ,93 avg ,Mounted Imaging Filter ,
+Dark Red M62.0 x 0.75 Machine Vision Filter,89-832,$325,200 - 1120 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,Dark Red ,660 ,66.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 720 - 1120nm ,?3.0 ,65.0 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Green M62.0 x 0.75 Machine Vision Filter,89-792,$325,200 - 1000 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,65.0 ,1.75 ±0.10 ,94 avg ,Mounted Imaging Filter ,
+Blue M62.0 x 0.75 Machine Vision Filter,89-772,$325,200 - 1200 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm OD ?4.0 @ 550 - 1200nm ,?3.0 ,65.0 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+UV/VIS Cut-Off M62.0 x 0.75 Machine Vision Filter,89-842,$325,200 - 1200 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,UV/VIS Cut ,880 ,135.00 ,OD ?3.0 @ 200 - 750nm OD ?4.0 @ 1000 - 1200nm ,?3.0 ,65.0 ,1.75 ±0.10 ,96 avg ,Mounted Imaging Filter ,
+UV/IR Cut-Off M62.0 x 0.75 Machine Vision Filter,89-802,$325,200 - 1100 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,UV/IR Cut ,548 ,290.00 ,OD ?3.0 @ 200 - 370nm OD ?4.0 @ 750 - 1100nm ,?3.0 ,65.0 ,1.75 ±0.10 ,95 avg ,Mounted Imaging Filter ,
+NUV M22.5 x 0.50 Machine Vision Filter,89-753,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,24.5 ,1.75 ±0.10 ,74 avg ,Mounted Imaging Filter ,
+NUV M34.0 x 0.50 Machine Vision Filter,89-756,$155,200 - 1200 ,30.0 ,Hard Coated ,M34.0 x 0.50 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,36.0 ,1.75 ±0.10 ,74 avg ,Mounted Imaging Filter ,
+NUV M35.5 x 0.50 Machine Vision Filter,89-757,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,37.0 ,1.75 ±0.10 ,74 avg ,Mounted Imaging Filter ,
+NUV M46.0 x 0.75 Machine Vision Filter,89-760,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,48.0 ,1.75 ±0.10 ,74 avg ,Mounted Imaging Filter ,
+NUV M55.0 x 0.75 Machine Vision Filter,89-761,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,57.0 ,1.75 ±0.10 ,74 avg ,Mounted Imaging Filter ,
+Cyan M22.5 x 0.50 Machine Vision Filter,89-773,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD ?4.0 @ 200 - 450nm ,?3.0 ,24.5 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Cyan M34.0 x 0.50 Machine Vision Filter,89-776,$155,200 - 1200 ,30.0 ,Hard Coated ,M34.0 x 0.50 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD ?4.0 @ 200 - 450nm ,?3.0 ,36.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Cyan M35.5 x 0.50 Imaging Filter,89-777,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD ?4.0 @ 200 - 450nm ,?3.0 ,37.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Cyan M46.0 x 0.75 Machine Vision Filter,89-780,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD ?4.0 @ 200 - 450nm ,?3.0 ,48.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Cyan M55.0 x 0.75 Imaging Filter,89-781,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD ?4.0 @ 200 - 450nm ,?3.0 ,57.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Orange M22.5 x 0.50 Machine Vision Filter,89-803,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ?4.0 @ 200 - 500nm ,?3.0 ,24.5 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Orange M34.0 x 0.50 Machine Vision Filter,89-806,$155,200 - 1200 ,30.0 ,Hard Coated ,M34.0 x 0.50 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ?4.0 @ 200 - 500nm ,?3.0 ,36.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Orange M35.5 x 0.50 Machine Vision Filter,89-807,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ?4.0 @ 200 - 500nm ,?3.0 ,37.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Orange M46.0 x 0.75 Machine Vision Filter,89-810,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ?4.0 @ 200 - 500nm ,?3.0 ,48.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+Orange M55.0 x 0.75 Machine Vision Filter,89-811,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ?4.0 @ 200 - 500nm ,?3.0 ,57.0 ,1.75 ±0.10 ,89 avg ,Mounted Imaging Filter ,
+NUV M25.5 x 0.50 Machine Vision Filter,89-754,$135,200 - 1200 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,27.5 ,,74 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+NUV M30.5 x 0.50 Machine Vision Filter,89-755,$145,200 - 1200 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,32.5 ,,74 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+NUV M40.5 x 0.50 Machine Vision Filter,89-758,$185,200 - 1200 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,42.00 ,,74 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+NUV M43.0 x 0.75 Machine Vision Filter,89-759,$195,200 - 1200 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,45.00 ,,74 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+NUV M62.0 x 0.75 Machine Vision Filter,89-762,$325,200 - 1200 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,NUV ,330 ,95.00 ,OD ?3.0 @ 400 - 650nm OD ?4.0 @ 200 - 250nm ,?3.0 ,65.00 ,,74 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Blue M22.5 x 0.50 Machine Vision Filter ,89-763,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm  OD ?4.0 @ 550 - 1200nm ,?3.0 ,24.5 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Blue M34.0 x 0.50 Machine Vision Filter ,89-766,$155,200 - 1200 ,30.00 ,Hard Coated ,M34.0 x 0.50 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm  OD ?4.0 @ 550 - 1200nm ,?3.0 ,36.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Blue M35.5 x 0.50 Machine Vision Filter ,89-767,$160,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm  OD ?4.0 @ 550 - 1200nm ,?3.0 ,37.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Blue M46.0 x 0.75 Machine Vision Filter ,89-770,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm  OD ?4.0 @ 550 - 1200nm ,?3.0 ,48.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Blue M55.0 x 0.75 Machine Vision Filter ,89-771,$240,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,Blue ,470 ,85.00 ,OD ?3.0 @ 200 - 400nm  OD ?4.0 @ 550 - 1200nm ,?3.0 ,57.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Cyan M25.5 x 0.50 Machine Vision Filter,89-774,$135,200 - 1200 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD  ?4.0 @ 200 - 450nm ,?3.0 ,27.5 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Cyan M30.5 x 0.50 Machine Vision Filter,89-775,$145,200 - 1200 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD  ?4.0 @ 200 - 450nm ,?3.0 ,32.5 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Cyan M40.5 x 0.50 Machine Vision Filter,89-778,$185,200 - 1200 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD  ?4.0 @ 200 - 450nm ,?3.0 ,42.00 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Cyan M43.0 x 0.75 Machine Vision Filter,89-779,$195,200 - 1200 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD  ?4.0 @ 200 - 450nm ,?3.0 ,45.00 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Cyan M62.0 x 0.75 Machine Vision Filter,89-782,$325,200 - 1200 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,Cyan ,518 ,95.00 ,OD ?3.0 @ 600 - 1000nm OD  ?4.0 @ 200 - 450nm ,?3.0 ,65.00 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Green M22.5 x 0.50 Machine Vision Filter ,89-783,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm  OD ?4.0 @ 600 - 1000nm ,?3.0 ,24.5 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Green M34.0 x 0.50 Machine Vision Filter ,89-786,$155,200 - 1200 ,30.00 ,Hard Coated ,M34.0 x 0.50 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,36.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Green M35.5 x 0.50 Machine Vision Filter ,89-787,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,37.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Green M46.0 x 0.75 Machine Vision Filter ,89-790,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,48.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Green M55.0 x 0.75 Machine Vision Filter ,89-791,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,Green ,524 ,92.00 ,OD ?3.0 @ 200 - 450nm OD ?4.0 @ 600 - 1000nm ,?3.0 ,57.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/IR Cut-Off M22.5 x 0.50 Machine Vision Filter ,89-793,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,UV/IR Cut ,548 ,290.00 ,"OD ?3.0 @ 200 - 370nm 
+OD ?4.0 @ 750 - 1100nm ",?3.0 ,24.5 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/IR Cut-Off M34.0 x 0.50 Machine Vision Filter,89-796,$155,200 - 1200 ,30.00 ,Hard Coated ,M34.0 x 0.50 ,UV/IR Cut ,548 ,290.00 ,"OD ?3.0 @ 200 - 370nm 
+OD ?4.0 @ 750 - 1100nm ",?3.0 ,36.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/IR Cut-Off M35.5 x 0.50 Imaging Filter ,89-797,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,UV/IR Cut ,548 ,290.00 ,"OD ?3.0 @ 200 - 370nm 
+OD ?4.0 @ 750 - 1100nm ",?3.0 ,37.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/IR Cut-Off M46.0 x 0.75 Machine Vision Filter,89-800,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,UV/IR Cut ,548 ,290.00 ,"OD ?3.0 @ 200 - 370nm 
+OD ?4.0 @ 750 - 1100nm ",?3.0 ,48.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/IR Cut-Off M55.0 x 0.75 Machine Vision Filter,89-801,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,UV/IR Cut ,548 ,290.00 ,"OD ?3.0 @ 200 - 370nm 
+OD ?4.0 @ 750 - 1100nm ",?3.0 ,57.00 ,,95 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Orange M25.5 x 0.50 Machine Vision Filter,89-804,$135,200 - 1200 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ? 4.0 @ 200 - 500nm ,?3.0 ,27.5 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Orange M30.5 x 0.50 Machine Vision Filter,89-805,$145,200 - 1200 ,26.5 ,Hard Coated ,M30.5 x 0.50 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ? 4.0 @ 200 - 500nm ,?3.0 ,32.5 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Orange M40.5 x 0.50 Machine Vision Filter,89-808,$185,200 - 1200 ,36.5 ,Hard Coated ,M40.5 x 0.50 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ? 4.0 @ 200 - 500nm ,?3.0 ,42.00 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Orange M43.0 x 0.75 Machine Vision Filter,89-809,$195,200 - 1200 ,39.2 ,Hard Coated ,M43.0 x 0.75 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ? 4.0 @ 200 - 500nm ,?3.0 ,45.00 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Orange M62.0 x 0.75 Machine Vision Filter,89-812,$325,200 - 1200 ,57.5 ,Hard Coated ,M62.0 x 0.75 ,Orange ,590 ,79.00 ,OD ?3.0 @ 700 - 1050nm OD ? 4.0 @ 200 - 500nm ,?3.0 ,65.00 ,,89 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Light Red M22.5 x 0.50 Machine Vision Filter ,89-813,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,Light Red ,634 ,70.00 ,OD ?3.0 @ 200 - 550nm OD ?4.0 @ 700 - 1050nm ,?3.0 ,24.5 ,,93 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Light Red M34.0 x 0.50 Machine Vision Filter ,89-816,$155,200 - 1200 ,30.00 ,Hard Coated ,M34.0 x 0.50 ,Light Red ,634 ,70.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 700 - 1050nm ",?3.0 ,36.00 ,,93 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Light Red M35.5 x 0.50 Machine Vision Filter ,89-817,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,Light Red ,634 ,70.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 700 - 1050nm ",?3.0 ,37.00 ,,93 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Light Red M46.0 x 0.75 Machine Vision Filter ,89-820,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,Light Red ,634 ,70.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 700 - 1050nm ",?3.0 ,48.00 ,,93 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Light Red M55.0 x 0.75 Machine Vision Filter ,89-821,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,Light Red ,634 ,70.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 700 - 1050nm ",?3.0 ,57.00 ,,93 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Dark Red M22.5 x 0.50 Machine Vision Filter ,89-823,$130,200 - 1200 ,18.5 ,Hard Coated ,M22.5 x 0.50 ,Dark Red ,660 ,66.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 720 - 1120nm ",?3.0 ,24.5 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Dark Red M34.0 x 0.50 Machine Vision Filter ,89-826,$155,200 - 1200 ,30.00 ,Hard Coated ,M34.0 x 0.50 ,Dark Red ,660 ,66.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 720 - 1120nm ",?3.0 ,36.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Dark Red M35.5 x 0.50 Machine Vision Filter ,89-827,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,Dark Red ,660 ,66.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 720 - 1120nm ",?3.0 ,37.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Dark Red M46.0 x 0.75 Machine Vision Filter ,89-830,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,Dark Red ,660 ,66.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 720 - 1120nm ",?3.0 ,48.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+Dark Red M55.0 x 0.75 Imaging Filter ,89-831,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,Dark Red ,660 ,66.00 ,"OD ?3.0 @ 200 - 550nm 
+OD ?4.0 @ 720 - 1120nm ",?3.0 ,57.00 ,,94 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/VIS Cut-Off M22.5 x 0.50 Imaging Filter ,89-833,$130,200 - 1200 ,21.5 ,Hard Coated ,M25.5 x 0.50 ,UV/VIS Cut ,880 ,135.00 ,"OD ?3.0 @ 200 - 750nm 
+OD ?4.0 @ 1000 - 1200nm ",?3.0 ,27.5 ,,96 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/VIS Cut-Off M34.0 x 0.50 Machine Vision Filter,89-836,$155,200 - 1200 ,30.00 ,Hard Coated ,M34.0 x 0.50 ,UV/VIS Cut ,880 ,135.00 ,"OD ?3.0 @ 200 - 750nm 
+OD ?4.0 @ 1000 - 1200nm ",?3.0 ,36.00 ,,96 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/VIS Cut-Off M35.5 x 0.50 Machine Vision Filter,89-837,$165,200 - 1200 ,31.5 ,Hard Coated ,M35.5 x 0.50 ,UV/VIS Cut ,880 ,135.00 ,"OD ?3.0 @ 200 - 750nm 
+OD ?4.0 @ 1000 - 1200nm ",?3.0 ,37.00 ,,96 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/VIS Cut-Off M46.0 x 0.75 Machine Vision Filter,89-840,$225,200 - 1200 ,41.5 ,Hard Coated ,M46.0 x 0.75 ,UV/VIS Cut ,880 ,135.00 ,"OD ?3.0 @ 200 - 750nm 
+OD ?4.0 @ 1000 - 1200nm ",?3.0 ,48.00 ,,96 avg ,Mounted Imaging Filter ,0.2 - 1.2 
+UV/VIS Cut-Off M55.0 x 0.75 Machine Vision Filter,89-841,$250,200 - 1200 ,50.5 ,Hard Coated ,M55.0 x 0.75 ,UV/VIS Cut ,880 ,135.00 ,"OD ?3.0 @ 200 - 750nm 
+OD ?4.0 @ 1000 - 1200nm ",?3.0 ,57.00 ,,96 avg ,Mounted Imaging Filter ,0.2 - 1.2 

@@ -1,0 +1,23 @@
+Title,Stock Number,Price,Compatible Fluorophore,Coating,Dichroic Cut-On Wavelength (nm),Dichroic Filter,Emission Filter,Emission Wavelength (nm),Excitation Filter,Excitation Wavelength (nm),Manufacturer,Substrate,Type,Wavelength Range (nm)
+Fluorescence Filter Set for Cyan Fluorescence Protein (CFP),67-002,$630,CFP ,Hard Coated ,458.00 ,#67-078 ,#67-028 ,502 - 538 ,#67-026 ,426 - 450 ,EO ,Fused Silica ,Fluorescence Filter Kit ,425 - 538 
+Fluorescence Filter Set for Green Fluorescence Protein (GFP),67-003,$630,GFP ,Hard Coated ,495.00 ,#67-079 ,#67-030 ,502 - 538 ,#67-027 ,457 - 487 ,EO ,Fused Silica ,Fluorescence Filter Kit ,457 - 538 
+Fluorescence Filter Set for FITC Fluorescein,67-004,$630,FITC ,Hard Coated ,506.00 ,#67-080 ,#67-031 ,513 - 556 ,#67-028 ,467 - 498 ,EO ,Fused Silica ,Fluorescence Filter Kit ,467 - 556 
+Fluorescence Filter Set for Yellow Fluorescence Protein (YFP),67-005,$630,YPF ,Hard Coated ,520.00 ,#67-081 ,#67-032 ,532 - 554 ,#67-029 ,488 - 512 ,EO ,Fused Silica ,Fluorescence Filter Kit ,488 - 554 
+Fluorescence Filter Set for Cy3 Fluorescence Dye,67-006,$630,CY3 ,Hard Coated ,562.00 ,#67-082 ,#67-034 ,570 - 613 ,#67-031 ,513 - 556 ,EO ,Fused Silica ,Fluorescence Filter Kit ,513 - 613 
+Fluorescence Filter Set for TRITC Rhodamine Dye,67-007,$630,TRITC ,Hard Coated ,562.00 ,#67-082 ,#67-034 ,570 - 613 ,#67-032 ,532 - 554 ,EO ,Fused Silica ,Fluorescence Filter Kit ,532 - 613 
+Fluorescence Filter Set for Texas Red Fluorescence Dye,67-008,$630,Texas Red ,Hard Coated ,593.00 ,#67-083 ,#67-035 ,604 - 644 ,#67-033 ,542 - 582 ,EO ,Fused Silica ,Fluorescence Filter Kit ,542 - 644 
+Fluorescence Filter Set for mCherry Fluorescence Protein,67-009,$630,mCherry ,Hard Coated ,593.00 ,#67-083 ,#67-036 ,603 - 678 ,#67-033 ,542 - 582 ,EO ,Fused Silica ,Fluorescence Filter Kit ,542 - 678 
+Fluorescence Filter Set for CY5 Fluorescence Dye,67-010,$630,CY5 ,Hard Coated ,660.00 ,#67-084 ,#67-038 ,672 - 712 ,#67-035 ,604 - 644 ,EO ,Fused Silica ,Fluorescence Filter Kit ,604 - 712 
+Fluorescence Filter Set for CY5.5 Fluorescence Dye,67-011,$630,CY5.5 ,Hard Coated ,685.00 ,#67-085 ,#67-039 ,696 - 736 ,#67-037 ,635 - 675 ,EO ,Fused Silica ,Fluorescence Filter Kit ,635 - 736 
+Fluorescence Filter Set for DAPI (High Brightness) ,86-370,$630,DAPI (High Brightness) ,Hard Coated ,409.00 ,#86-330 ,#84-095 ,417 - 477 ,#84-093 ,352 - 402 ,EO ,Fused Silica ,Fluorescence Filter Kit ,352 - 477 
+Fluorescence Filter Set for DAPI (High Contrast) ,86-371,$630,DAPI (High Contrast) ,Hard Coated ,409.00 ,#86-330 ,#84-095 ,417 - 477 ,#84-094 ,382 - 393 ,EO ,Fused Silica ,Fluorescence Filter Kit ,382 - 477 
+Fluorescence Filter Set for Lucifer Yellow ,86-372,$630,Lucifer Yellow ,Hard Coated ,482.00 ,#86-331 ,#67-031 ,513 - 556 ,#67-062 ,426 - 450 ,EO ,Fused Silica ,Fluorescence Filter Kit ,426 - 556 
+Fluorescence Filter Set for SpectrumGreen ,86-373,$630,SpectrumGreen ,Hard Coated ,506.00 ,#67-080 ,#84-098 ,517 - 537 ,#84-096 ,484 - 504 ,EO ,Fused Silica ,Fluorescence Filter Kit ,484 - 537 
+Fluorescence Filter Set for Qdot 525 ,86-374,$630,Qdot® 525 ,Hard Coated ,510.00 ,#86-332 ,#86-354 ,518 - 533 ,#86-349 ,415 - 455 ,EO ,Fused Silica ,Fluorescence Filter Kit ,415 - 533 
+Fluorescence Filter Set for Qdot 605 ,86-375,$630,Qdot® 605 ,Hard Coated ,510.00 ,#86-332 ,#86-356 ,598 - 613 ,#86-349 ,415 - 455 ,EO ,Fused Silica ,Fluorescence Filter Kit ,415 - 613 
+Fluorescence Filter Set for Qdot 625 ,86-376,$630,Qdot® 625 ,Hard Coated ,510.00 ,#86-332 ,#86-357 ,618 - 633 ,#86-349 ,415 - 455 ,EO ,Fused Silica ,Fluorescence Filter Kit ,415 - 663 
+Fluorescence Filter Set for Qdot 655 ,86-377,$630,Qdot® 655 ,Hard Coated ,510.00 ,#86-332 ,#86-358 ,648 - 663 ,#86-349 ,415 - 455 ,EO ,Fused Silica ,Fluorescence Filter Kit ,415 - 663 
+Fluorescence Filter Set for SpectrumGold ,86-378,$630,SpectrumGold ,Hard Coated ,552.00 ,#86-334 ,#84-100 ,558 - 586 ,#84-099 ,524 - 544 ,EO ,Fused Silica ,Fluorescence Filter Kit ,524 - 586 
+Fluorescence Filter Set for SpectrumOrange ,86-379,$630,SpectrumOrange ,Hard Coated ,562.00 ,#67-082 ,#84-101 ,576 - 596 ,#67-032 ,532 - 554 ,EO ,Fused Silica ,Fluorescence Filter Kit ,532 - 596 
+Fluorescence Filter Set for SpectrumRed ,86-380,$630,SpectrumRed ,Hard Coated ,605.00 ,#86-335 ,#84-103 ,612 - 644 ,#84-101 ,576 - 596 ,EO ,Fused Silica ,Fluorescence Filter Kit ,576 - 644 
+Fluorescence Filter Set for Indocyanine Green (ICG) ,86-381,$630,Indocyanine Green (ICG) ,Hard Coated ,801.00 ,#86-336 ,#84-107 ,814 - 851 ,#84-105 ,748 - 789 ,EO ,Fused Silica ,Fluorescence Filter Kit ,748 - 851 

@@ -1,0 +1,13 @@
+Title,Stock Number,Price,Dia. (mm),CWL (nm),CWL Tolerance (nm),FWHM (nm),Minimum Transmission (%),CA (mm),Surface Quality,Coating,Manufacturer,Parallelism (arcmin),Substrate,Thickness (mm),Thickness Tolerance (mm),Type
+"122nm, 15.9mm Dia. Deep UV Bandpass Filter",33-021,$1355,15.90 +0.00/-0.13,122.00 ,±2.5 ,20.00 ,>15 ,11.43 ,20-10 ,Traditional Coated ,EO ,3.00 ,MgF2 ,7.62 ,±0.25 ,Bandpass Filter 
+"122nm, 30.5mm Dia. Deep UV Bandpass Filter",33-025,$1425,30.50 +0.00/-0.13,122.00 ,±2.5 ,20.00 ,>15 ,20.32 ,20-10 ,Traditional Coated ,EO ,3.00 ,MgF2 ,9.53 ,±0.25 ,Bandpass Filter 
+"122nm, 56.5mm Dia. Deep UV Bandpass Filter",33-029,$1850,56.50 +0.00/-0.13,122.00 ,±2.5 ,20.00 ,>15 ,48.26 ,20-10 ,Traditional Coated ,EO ,3.00 ,MgF2 ,12.70 ,±0.25 ,Bandpass Filter 
+"193nm, 15.9mm Dia. Deep UV Bandpass Filter",33-022,$855,15.90 +0.00/-0.13,193.00 ,±2.5 ,20.00 ,>15 ,11.43 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,7.62 ,±0.25 ,Bandpass Filter 
+"193nm, 30.5mm Dia. Deep UV Bandpass Filter",33-026,$925,30.50 +0.00/-0.13,193.00 ,±2.5 ,20.00 ,>15 ,20.32 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,9.53 ,±0.25 ,Bandpass Filter 
+"193nm, 56.5mm Dia. Deep UV Bandpass Filter",33-030,$995,56.50 +0.00/-0.13,193.00 ,±2.5 ,20.00 ,>15 ,48.26 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,12.70 ,±0.25 ,Bandpass Filter 
+"248nm, 15.9mm Dia. Deep UV Bandpass Filter",33-023,$855,15.90 +0.00/-0.13,248.00 ,±2.5 ,20.00 ,>15 ,11.43 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,7.62 ,±0.25 ,Bandpass Filter 
+"248nm, 30.5mm Dia. Deep UV Bandpass Filter",33-027,$925,30.50 +0.00/-0.13,248.00 ,±2.5 ,20.00 ,>15 ,20.32 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,9.53 ,±0.25 ,Bandpass Filter 
+"248nm, 56.5mm Dia. Deep UV Bandpass Filter",33-031,$995,56.50 +0.00/-0.13,248.00 ,±2.5 ,20.00 ,>15 ,48.26 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,12.70 ,±0.25 ,Bandpass Filter 
+"308nm, 15.9mm Dia. Deep UV Bandpass Filter",33-024,$455,15.90 +0.00/-0.13,308.00 ,±2.5 ,20.00 ,>15 ,11.43 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,7.62 ,±0.25 ,Bandpass Filter 
+"308nm, 30.5mm Dia. Deep UV Bandpass Filter",33-028,$525,30.50 +0.00/-0.13,308.00 ,±2.5 ,20.00 ,>15 ,20.32 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,9.53 ,±0.25 ,Bandpass Filter 
+"308nm, 56.5mm Dia. Deep UV Bandpass Filter",33-032,$625,56.50 +0.00/-0.13,308.00 ,±2.5 ,20.00 ,>15 ,48.26 ,20-10 ,Traditional Coated ,EO ,3.00 ,Fused Silica ,12.70 ,±0.25 ,Bandpass Filter 

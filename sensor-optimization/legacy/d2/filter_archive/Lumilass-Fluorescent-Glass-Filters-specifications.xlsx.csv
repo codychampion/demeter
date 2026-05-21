@@ -1,0 +1,10 @@
+Title,Stock Number,Price,Coating,Color,Dia. (mm),Glass/Filter Number,Substrate,Dimensions (mm),Thickness (mm),Thickness Tolerance (mm),Type,Excitation Wavelength (nm)
+"Red Fluorescent Filter (R7), 12.5mm Diameter ",84-883,$145,Uncoated ,Red ,12.50 ±0.10,R7 ,Lumilass ,,3.00 ,±0.10 ,Color Filter ,200 - 420 
+"Red Fluorescent Filter (R7), 25mm Diameter",66-298,$225,Uncoated ,Red ,25.00 ±0.10,R7 ,Lumilass ,,3.00 ,±0.10 ,Color Filter ,200 - 420 
+"Red Fluorescent Filter (R7), 50mm Square ",84-886,$575,Uncoated ,Red ,,R7 ,Lumilass ,50.0 x 50.0 ±0.10,3.00 ,±0.10 ,Color Filter ,200 - 420 
+"Blue Fluorescent Filter (B), 12.5mm Diameter    ",84-885,$145,Uncoated ,Blue ,12.50 ±0.10,B ,Lumilass ,,3.00 ,±0.10 ,Color Filter ,200 - 400 
+"Blue Fluorescent Filter (B), 25mm Diameter",66-299,$225,Uncoated ,Blue ,25.00 ±0.10,B ,Lumilass ,,3.00 ,±0.10 ,Color Filter ,200 - 400 
+"Blue Fluorescent Filter (B), 50mm Square",84-888,$575,Uncoated ,Blue ,,B ,Lumilass ,50.0 x 50.0 ±0.10,3.00 ,±0.10 ,Color Filter ,200 - 400 
+"Green Fluorescent Filter (G9), 12.5mm Diameter  ",84-884,$145,Uncoated ,Green ,12.50 ±0.10,G9 ,Lumilass ,,3.00 ,±0.10 ,Color Filter ,200 - 390 
+"Green Fluorescent Filter (G9), 25mm Diameter",66-300,$225,Uncoated ,Green ,25.00 ±0.10,G9 ,Lumilass ,,3.00 ,±0.10 ,Color Filter ,200 - 390 
+"Green Fluorescent Filter (G9), 50mm Square ",84-887,$575,Uncoated ,Green ,,G9 ,Lumilass ,50.0 x 50.0 ±0.10,3.00 ,±0.10 ,Color Filter ,200 - 390 

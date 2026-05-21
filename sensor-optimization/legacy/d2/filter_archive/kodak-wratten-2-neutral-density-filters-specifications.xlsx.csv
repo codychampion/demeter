@@ -1,0 +1,27 @@
+Title,Stock Number,Price,Coating,Substrate,Optical Density OD,Dimensions (inches),Dimensions (mm),Transmission (%),Type,Blocking Wavelength Range (nm)
+"0.1 OD 3"" Sq, Neutral Density Filter",54-453,$150,Uncoated ,Wratten 2 ,0.1 ,3 x 3 ,76.2 x 76.2 ,80.00 ,Neutral Density Filter ,400 - 700 
+"0.2 OD 3"" Sq, Neutral Density Filter",53-702,$150,Uncoated ,Wratten 2 ,0.2 ,3 x 3 ,76.2 x 76.2 ,63.00 ,Neutral Density Filter ,400 - 700 
+"0.3 OD 3"" Sq, Neutral Density Filter",53-703,$150,Uncoated ,Wratten 2 ,0.3 ,3 x 3 ,76.2 x 76.2 ,50.00 ,Neutral Density Filter ,400 - 700 
+"0.4 OD 3"" Sq, Neutral Density Filter",54-454,$150,Uncoated ,Wratten 2 ,0.4 ,3 x 3 ,76.2 x 76.2 ,40.00 ,Neutral Density Filter ,400 - 700 
+"0.5 OD 3"" Sq, Neutral Density Filter",54-455,$150,Uncoated ,Wratten 2 ,0.5 ,3 x 3 ,76.2 x 76.2 ,32.00 ,Neutral Density Filter ,400 - 700 
+"0.6 OD 3"" Sq, Neutral Density Filter",53-704,$150,Uncoated ,Wratten 2 ,0.6 ,3 x 3 ,76.2 x 76.2 ,25.00 ,Neutral Density Filter ,400 - 700 
+"0.7 OD 3"" Sq, Neutral Density Filter",54-456,$150,Uncoated ,Wratten 2 ,0.7 ,3 x 3 ,76.2 x 76.2 ,20.00 ,Neutral Density Filter ,400 - 700 
+"0.8 OD 3"" Sq, Neutral Density Filter",54-457,$150,Uncoated ,Wratten 2 ,0.8 ,3 x 3 ,76.2 x 76.2 ,16.00 ,Neutral Density Filter ,400 - 700 
+"0.9 OD 3"" Sq, Neutral Density Filter",54-458,$150,Uncoated ,Wratten 2 ,0.9 ,3 x 3 ,76.2 x 76.2 ,13.00 ,Neutral Density Filter ,400 - 700 
+"1.0 OD 3"" Sq, Neutral Density Filter",53-705,$150,Uncoated ,Wratten 2 ,1.0 ,3 x 3 ,76.2 x 76.2 ,10.00 ,Neutral Density Filter ,400 - 700 
+"2.0 OD 3"" Sq, Neutral Density Filter",53-706,$150,Uncoated ,Wratten 2 ,2.0 ,3 x 3 ,76.2 x 76.2 ,1.00 ,Neutral Density Filter ,400 - 700 
+"3.0 OD 3"" Sq, Neutral Density Filter",53-707,$150,Uncoated ,Wratten 2 ,3.0 ,3 x 3 ,76.2 x 76.2 ,0.1 ,Neutral Density Filter ,400 - 700 
+"4.0 OD 3"" Sq, Neutral Density Filter",54-459,$150,Uncoated ,Wratten 2 ,4.0 ,3 x 3 ,76.2 x 76.2 ,0.01 ,Neutral Density Filter ,400 - 700 
+"0.1 OD 100 x 300mm, Neutral Density Filter",83-996,$350,Uncoated ,Wratten 2 ,0.1 ,,100.0 x 300.0 ,80.00 ,Neutral Density Filter ,400 - 700 
+"0.2 OD 100 x 300mm, Neutral Density Filter",83-997,$350,Uncoated ,Wratten 2 ,0.2 ,,100.0 x 300.0 ,63.00 ,Neutral Density Filter ,400 - 700 
+"0.3 OD 100 x 300mm, Neutral Density Filter",83-998,$350,Uncoated ,Wratten 2 ,0.3 ,,100.0 x 300.0 ,50.00 ,Neutral Density Filter ,400 - 700 
+"0.4 OD 100 x 300mm, Neutral Density Filter",83-999,$350,Uncoated ,Wratten 2 ,0.4 ,,100.0 x 300.0 ,40.00 ,Neutral Density Filter ,400 - 700 
+"0.5 OD 100 x 300mm, Neutral Density Filter",84-000,$350,Uncoated ,Wratten 2 ,0.5 ,,100.0 x 300.0 ,32.00 ,Neutral Density Filter ,400 - 700 
+"0.6 OD 100 x 300mm, Neutral Density Filter",84-001,$350,Uncoated ,Wratten 2 ,0.6 ,,100.0 x 300.0 ,25.00 ,Neutral Density Filter ,400 - 700 
+"0.7 OD 100 x 300mm, Neutral Density Filter",84-002,$350,Uncoated ,Wratten 2 ,0.7 ,,100.0 x 300.0 ,20.00 ,Neutral Density Filter ,400 - 700 
+"0.8 OD 100 x 300mm, Neutral Density Filter",84-003,$350,Uncoated ,Wratten 2 ,0.8 ,,100.0 x 300.0 ,16.00 ,Neutral Density Filter ,400 - 700 
+"0.9 OD 100 x 300mm, Neutral Density Filter",84-004,$350,Uncoated ,Wratten 2 ,0.9 ,,100.0 x 300.0 ,13.00 ,Neutral Density Filter ,400 - 700 
+"1.0 OD 100 x 300mm, Neutral Density Filter",84-005,$350,Uncoated ,Wratten 2 ,1.0 ,,100.0 x 300.0 ,10.00 ,Neutral Density Filter ,400 - 700 
+"2.0 OD 100 x 300mm, Neutral Density Filter",84-006,$350,Uncoated ,Wratten 2 ,2.0 ,,100.0 x 300.0 ,1.0 ,Neutral Density Filter ,400 - 700 
+"3.0 OD 100 x 300mm, Neutral Density Filter",84-007,$350,Uncoated ,Wratten 2 ,3.0 ,,100.0 x 300.0 ,0.1 ,Neutral Density Filter ,400 - 700 
+"4.0 OD 100 x 300mm, Neutral Density Filter",84-008,$350,Uncoated ,Wratten 2 ,4.0 ,,100.0 x 300.0 ,0.01 ,Neutral Density Filter ,400 - 700 

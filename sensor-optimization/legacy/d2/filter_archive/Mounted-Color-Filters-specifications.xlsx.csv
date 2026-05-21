@@ -1,0 +1,39 @@
+Title,Stock Number,Price,Color,Cut-Off Wavelength (nm),Cut-On Wavelength (nm),Glass/Filter Number,Substrate,Thickness of Compatible Optics (mm),Surface Quality,Mounting Threads,Type,Wavelength Range (nm),Substrate Thickness (mm)
+Mounted M22.5 x 0.5 Threaded - Blue Filter,46-541,$39,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M22.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M25.5 x 0.5 Threaded - Blue Filter,46-544,$39,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M25.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M30.5 x 0.5 Threaded - Blue Filter,46-547,$45,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M30.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M40.5 x 0.5 Threaded - Blue Filter,46-569,$36.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M40.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M43 x 0.75 Threaded - Blue Filter,46-570,$45,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M43 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M46 x 0.75 Threaded - Blue Filter,46-571,$47.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M46 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M49 x 0.75 Threaded - Blue Filter,54-775,$47.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.5 ,80-50 ,M49 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M52 x 0.75 Threaded - Blue Filter,54-776,$47.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.5 ,80-50 ,M52 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M58 x 0.75 Threaded - Blue Filter,54-777,$47.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.5 ,80-50 ,M58 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M46 x 0.75 Threaded - Daylight Blue Filter,54-780,$47.5,Daylight Blue ,465.00 ,340.00 ,LB-120 ,Colored Glass ,2.5 ,80-50 ,M46 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M49 x 0.75 Threaded - Daylight Blue Filter,54-781,$47.5,Daylight Blue ,465.00 ,340.00 ,LB-120 ,Colored Glass ,2.5 ,80-50 ,M49 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M52 x 0.75 Threaded - Daylight Blue Filter,54-782,$47.5,Daylight Blue ,465.00 ,340.00 ,LB-120 ,Colored Glass ,2.5 ,80-50 ,M52 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M58 x 0.75 Threaded - Daylight Blue Filter,54-783,$47.5,Daylight Blue ,465.00 ,340.00 ,LB-120 ,Colored Glass ,2.5 ,80-50 ,M58 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M62 x 0.75  Threaded - Daylight Blue Filter,46-534,$51.5,Daylight Blue ,465.00 ,340.00 ,LB-120 ,Colored Glass ,2.5 ,80-50 ,M62 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M72 x 0.75  Threaded - Daylight Blue Filter,46-537,$57.5,Daylight Blue ,465.00 ,340.00 ,LB-120 ,Colored Glass ,2.5 ,80-50 ,M72 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M22.5 x 0.5 Threaded - Green Filter,46-540,$39,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.0 ,80-50 ,M22.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M25.5 x 0.5 Threaded - Green Filter,46-543,$39,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.0 ,80-50 ,M25.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M30.5 x 0.5 Threaded - Green Filter,46-546,$45,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.0 ,80-50 ,M30.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M46 x 0.75 Threaded - Green Filter,54-768,$47.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M46 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M49 x 0.75 Threaded - Green Filter,54-769,$47.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M49 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M52 x 0.75 Threaded - Green Filter,54-770,$47.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M52 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M58 x 0.75 Threaded - Green Filter,54-771,$47.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M58 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M62 x 0.75  Threaded - Green Filter,46-533,$51.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M62 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M72 x 0.75  Threaded - Green Filter,46-536,$57.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M72 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M22.5 x 0.5 Threaded - Red Filter,46-539,$39,Red ,,600.00 ,R-60 ,Colored Glass ,2.0 ,80-50 ,M22.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M25.5 x 0.5 Threaded - Red Filter,46-542,$39,Red ,,600.00 ,R-60 ,Colored Glass ,2.0 ,80-50 ,M25.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M30.5 x 0.5 Threaded - Red Filter,46-545,$45,Red ,,600.00 ,R-60 ,Colored Glass ,2.0 ,80-50 ,M30.5 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 
+Mounted M46 x 0.75 Threaded - Red Filter,54-762,$47.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M46 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M49 x 0.75 Threaded - Red Filter,54-763,$47.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M49 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M52 x 0.75 Threaded - Red Filter,54-764,$47.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M52 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M58 x 0.75 Threaded - Red Filter,54-765,$47.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M58 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M62 x 0.75  Threaded - Red Filter,46-532,$51.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M62 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M72 x 0.75  Threaded - Red Filter,46-535,$57.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M72 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M37 x 0.75 Threaded - Red Filter,58-642,$47.5,Red ,,600.00 ,R-60 ,Colored Glass ,4.00 ,80-50 ,M37 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,4.0 
+Mounted M37 x 0.75 Threaded - Blue Filter,58-644,$47.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,4.00 ,80-50 ,M37 x 0.75 ,Mounted Imaging Filter ,400 - 700 ,4.0 
+Mounted M39 x 0.5 Threaded - Red Filter,49-797,$47.5,Red ,,600.00 ,R-60 ,Colored Glass ,2.5 ,80-50 ,M39 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M39 x 0.5 Threaded - Green Filter,49-798,$47.5,Green ,550.00 ,520.00 ,G-533 ,Colored Glass ,2.5 ,80-50 ,M39 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.5 
+Mounted M39 x 0.5 Threaded - Blue Filter,49-799,$47.5,Blue ,480.00 ,395.00 ,B-440 ,Colored Glass ,2.0 ,80-50 ,M39 x 0.5 ,Mounted Imaging Filter ,400 - 700 ,2.0 

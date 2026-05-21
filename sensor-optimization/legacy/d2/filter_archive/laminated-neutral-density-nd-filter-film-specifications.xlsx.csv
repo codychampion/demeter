@@ -1,0 +1,51 @@
+Title,Stock Number,Price,Coating,Dia. (mm),Substrate,Optical Density OD,Dimensions (mm),Thickness (mm),Transmission (%),Type,Blocking Wavelength Range (nm)
+"0.2 OD 12.5mm Diameter, Laminated Wratten Filter",84-010,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.2 ,,0.30 ±0.25,63.00 ,Neutral Density Filter ,400 - 700 
+"0.3 OD 12.5mm Diameter, Laminated Wratten Filter",84-011,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.3 ,,0.30 ±0.25,50.00 ,Neutral Density Filter ,400 - 700 
+"0.4 OD 12.5mm Diameter, Laminated Wratten Filter",84-012,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.4 ,,0.30 ±0.25,40.00 ,Neutral Density Filter ,400 - 700 
+"0.5 OD 12.5mm Diameter, Laminated Wratten Filter",84-013,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.5 ,,0.30 ±0.25,32.00 ,Neutral Density Filter ,400 - 700 
+"0.6 OD 12.5mm Diameter, Laminated Wratten Filter",84-014,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.6 ,,0.30 ±0.25,25.00 ,Neutral Density Filter ,400 - 700 
+"0.7 OD 12.5mm Diameter, Laminated Wratten Filter",84-015,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.7 ,,0.30 ±0.25,20.00 ,Neutral Density Filter ,400 - 700 
+"0.8 OD 12.5mm Diameter, Laminated Wratten Filter",84-016,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.8 ,,0.30 ±0.25,16.00 ,Neutral Density Filter ,400 - 700 
+"0.9 OD 12.5mm Diameter, Laminated Wratten Filter",84-017,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,0.9 ,,0.30 ±0.25,13.00 ,Neutral Density Filter ,400 - 700 
+"1.0 OD 12.5mm Diameter, Laminated Wratten Filter",84-018,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,1.0 ,,0.30 ±0.25,10.00 ,Neutral Density Filter ,400 - 700 
+"2.0 OD 12.5mm Diameter, Laminated Wratten Filter",84-019,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,2.0 ,,0.30 ±0.25,1.0 ,Neutral Density Filter ,400 - 700 
+"3.0 OD 12.5mm Diameter, Laminated Wratten Filter",84-020,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,3.0 ,,0.30 ±0.25,0.1 ,Neutral Density Filter ,400 - 700 
+"4.0 OD 12.5mm Diameter, Laminated Wratten Filter",84-021,$40,Uncoated ,12.50 ±0.50,Laminated Wratten 2 ,4.0 ,,0.30 ±0.25,0.01 ,Neutral Density Filter ,400 - 700 
+"0.1 OD 25mm Diameter, Laminated Wratten Filter",84-022,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.1 ,,0.30 ±0.25,80.00 ,Neutral Density Filter ,400 - 700 
+"0.2 OD 25mm Diameter, Laminated Wratten Filter",84-023,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.2 ,,0.30 ±0.25,63.00 ,Neutral Density Filter ,400 - 700 
+"0.3 OD 25mm Diameter, Laminated Wratten Filter",84-024,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.3 ,,0.30 ±0.25,50.00 ,Neutral Density Filter ,400 - 700 
+"0.4 OD 25mm Diameter, Laminated Wratten Filter",84-025,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.4 ,,0.30 ±0.25,40.00 ,Neutral Density Filter ,400 - 700 
+"0.5 OD 25mm Diameter, Laminated Wratten Filter",84-026,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.5 ,,0.30 ±0.25,32.00 ,Neutral Density Filter ,400 - 700 
+"0.6 OD 25mm Diameter, Laminated Wratten Filter",84-027,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.6 ,,0.30 ±0.25,25.00 ,Neutral Density Filter ,400 - 700 
+"0.7 OD 25mm Diameter, Laminated Wratten Filter",84-028,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.7 ,,0.30 ±0.25,20.00 ,Neutral Density Filter ,400 - 700 
+"0.8 OD 25mm Diameter, Laminated Wratten Filter",84-029,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.8 ,,0.30 ±0.25,16.00 ,Neutral Density Filter ,400 - 700 
+"0.9 OD 25mm Diameter, Laminated Wratten Filter",84-030,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,0.9 ,,0.30 ±0.25,13.00 ,Neutral Density Filter ,400 - 700 
+"1.0 OD 25mm Diameter, Laminated Wratten Filter",84-031,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,1.0 ,,0.30 ±0.25,10.00 ,Neutral Density Filter ,400 - 700 
+"2.0 OD 25mm Diameter, Laminated Wratten Filter",84-032,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,2.0 ,,0.30 ±0.25,1.0 ,Neutral Density Filter ,400 - 700 
+"3.0 OD 25mm Diameter, Laminated Wratten Filter",84-033,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,3.0 ,,0.30 ±0.25,0.1 ,Neutral Density Filter ,400 - 700 
+"4.0 OD 25mm Diameter, Laminated Wratten Filter",84-034,$69,Uncoated ,25.00 ±0.50,Laminated Wratten 2 ,4.0 ,,0.30 ±0.25,0.01 ,Neutral Density Filter ,400 - 700 
+"0.1 OD 50mm Diameter, Laminated Wratten Filter",84-035,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.1 ,,0.30 ±0.25,80.00 ,Neutral Density Filter ,400 - 700 
+"0.2 OD 50mm Diameter, Laminated Wratten Filter",84-036,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.2 ,,0.30 ±0.25,63.00 ,Neutral Density Filter ,400 - 700 
+"0.3 OD 50mm Diameter, Laminated Wratten Filter",84-037,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.3 ,,0.30 ±0.25,50.00 ,Neutral Density Filter ,400 - 700 
+"0.4 OD 50mm Diameter, Laminated Wratten Filter",84-038,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.4 ,,0.30 ±0.25,40.00 ,Neutral Density Filter ,400 - 700 
+"0.6 OD 50mm Diameter, Laminated Wratten Filter",84-040,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.6 ,,0.30 ±0.25,25.00 ,Neutral Density Filter ,400 - 700 
+"0.7 OD 50mm Diameter, Laminated Wratten Filter",84-041,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.7 ,,0.30 ±0.25,20.00 ,Neutral Density Filter ,400 - 700 
+"0.8 OD 50mm Diameter, Laminated Wratten Filter",84-042,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.8 ,,0.30 ±0.25,16.00 ,Neutral Density Filter ,400 - 700 
+"0.9 OD 50mm Diameter, Laminated Wratten Filter",84-043,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,0.9 ,,0.30 ±0.25,13.00 ,Neutral Density Filter ,400 - 700 
+"1.0 OD 50mm Diameter, Laminated Wratten Filter",84-044,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,1.0 ,,0.30 ±0.25,10.00 ,Neutral Density Filter ,400 - 700 
+"2.0 OD 50mm Diameter, Laminated Wratten Filter",84-045,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,2.0 ,,0.30 ±0.25,1.0 ,Neutral Density Filter ,400 - 700 
+"3.0 OD 50mm Diameter, Laminated Wratten Filter",84-046,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,3.0 ,,0.30 ±0.25,0.1 ,Neutral Density Filter ,400 - 700 
+"4.0 OD 50mm Diameter, Laminated Wratten Filter",84-047,$95,Uncoated ,50.00 ±0.50,Laminated Wratten 2 ,4.0 ,,0.30 ±0.25,0.01 ,Neutral Density Filter ,400 - 700 
+"0.1 OD 50mm Square, Laminated Wratten Filter",84-048,$105,Uncoated ,,Laminated Wratten 2 ,0.1 ,50.0 x 50.0 ±0.50,0.30 ±0.25,80.00 ,Neutral Density Filter ,400 - 700 
+"0.2 OD 50mm Square, Laminated Wratten Filter",84-049,$105,Uncoated ,,Laminated Wratten 2 ,0.2 ,50.0 x 50.0 ±0.50,0.30 ±0.25,63.00 ,Neutral Density Filter ,400 - 700 
+"0.3 OD 50mm Square, Laminated Wratten Filter",84-050,$105,Uncoated ,,Laminated Wratten 2 ,0.3 ,50.0 x 50.0 ±0.50,0.30 ±0.25,50.00 ,Neutral Density Filter ,400 - 700 
+"0.4 OD 50mm Square, Laminated Wratten Filter",84-051,$105,Uncoated ,,Laminated Wratten 2 ,0.4 ,50.0 x 50.0 ±0.50,0.30 ±0.25,40.00 ,Neutral Density Filter ,400 - 700 
+"0.5 OD 50mm Square, Laminated Wratten Filter",84-052,$105,Uncoated ,,Laminated Wratten 2 ,0.5 ,50.0 x 50.0 ±0.50,0.30 ±0.25,32.00 ,Neutral Density Filter ,400 - 700 
+"0.6 OD 50mm Square, Laminated Wratten Filter",84-053,$105,Uncoated ,,Laminated Wratten 2 ,0.6 ,50.0 x 50.0 ±0.50,0.30 ±0.25,25.00 ,Neutral Density Filter ,400 - 700 
+"0.7 OD 50mm Square, Laminated Wratten Filter",84-054,$105,Uncoated ,,Laminated Wratten 2 ,0.7 ,50.0 x 50.0 ±0.50,0.30 ±0.25,20.00 ,Neutral Density Filter ,400 - 700 
+"0.8 OD 50mm Square, Laminated Wratten Filter",84-055,$105,Uncoated ,,Laminated Wratten 2 ,0.8 ,50.0 x 50.0 ±0.50,0.30 ±0.25,16.00 ,Neutral Density Filter ,400 - 700 
+"0.9 OD 50mm Square, Laminated Wratten Filter",84-056,$105,Uncoated ,,Laminated Wratten 2 ,0.9 ,50.0 x 50.0 ±0.50,0.30 ±0.25,13.00 ,Neutral Density Filter ,400 - 700 
+"1.0 OD 50mm Square, Laminated Wratten Filter",84-057,$105,Uncoated ,,Laminated Wratten 2 ,1.0 ,50.0 x 50.0 ±0.50,0.30 ±0.25,10.00 ,Neutral Density Filter ,400 - 700 
+"2.0 OD 50mm Square, Laminated Wratten Filter",84-058,$105,Uncoated ,,Laminated Wratten 2 ,2.0 ,50.0 x 50.0 ±0.50,0.30 ±0.25,1.0 ,Neutral Density Filter ,400 - 700 
+"3.0 OD 50mm Square, Laminated Wratten Filter",84-059,$105,Uncoated ,,Laminated Wratten 2 ,3.0 ,50.0 x 50.0 ±0.50,0.30 ±0.25,0.1 ,Neutral Density Filter ,400 - 700 
+"4.0 OD 50mm Square, Laminated Wratten Filter",84-060,$105,Uncoated ,,Laminated Wratten 2 ,4.0 ,50.0 x 50.0 ±0.50,0.30 ±0.25,0.01 ,Neutral Density Filter ,400 - 700 

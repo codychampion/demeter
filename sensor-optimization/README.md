@@ -5,9 +5,9 @@
 ![Optimization](https://img.shields.io/badge/optimization-genetic%20algorithm-7c3aed)
 ![Domain](https://img.shields.io/badge/domain-spectral%20sensing-059669)
 
-Historical follow-on work from `Demeter2` for simulating spectral sensor responses and exploring low-cost filter combinations for stress/control classification.
+Historical work for simulating spectral sensor responses and exploring low-cost filter combinations for stress/control classification.
 
-This module is being folded into canonical `demeter` so the postdoc work has one public home. The original `Demeter2` repository should be treated as the source archive for this module until all files have been audited and migrated.
+This module now gathers the full sensor-optimization lineage inside canonical `demeter`: a cleaned historical workflow, input-data notes, and imported legacy snapshots from the former `Demeter2` and `sensordevlopment` repositories.
 
 ## What this module does
 
@@ -24,13 +24,15 @@ The original `Demeter2` workflow:
 
 | Path | Purpose |
 |---|---|
-| `R/simulate.R` | Safer simulation helper ported from `Demeter2/functions.R`. |
-| `R/sensor_optimization.R` | Cleaned historical script skeleton based on `Demeter2/sensorv3.R`. |
-| `data/README.md` | Documents required reference/input data and migration status. |
+| `R/simulate.R` | Safer simulation helper derived from the original `functions.R` helper. |
+| `R/sensor_optimization.R` | Cleaned historical script skeleton based on the original `sensorv3.R` workflow. |
+| `data/README.md` | Documents required reference/input data and expected layout. |
+| `legacy/d2/` | Imported legacy snapshot of the former `Demeter2` repository. |
+| `legacy/sd/` | Imported legacy snapshot of the former `sensordevlopment` repository. |
 
 ## Important limitations
 
-This is historical research code, not a maintained package. The original `Demeter2` script depended on local working directories and input folders that are not fully present in this combined module yet.
+This is historical research code, not a maintained package. The cleaned scripts remove some obvious runtime hazards, but the original experiments still depended on specific input folders, catalog tables, and local exploratory context.
 
 Known required inputs:
 
@@ -38,11 +40,11 @@ Known required inputs:
 - Range/blocking filter data equivalent to `ranges.csv`.
 - Pi camera response curves, originally expected at `pi-camera-response-curves-master/Sony_IMX219_spectral_response.csv`.
 - Spectral CSV archives, originally expected under `csv_archive/`.
-- A `dataformat()` helper, which was referenced by the original script but was not accessible through the connector during review.
+- A `dataformat()` helper, which was referenced by the original script but is not included in the cleaned skeleton.
 
-## Cleanup applied during merge
+## Cleanup applied in the canonical workflow
 
-The cleaned module avoids several obvious issues found in `Demeter2/sensorv3.R`:
+The cleaned workflow avoids several obvious issues found in the original `sensorv3.R` variants:
 
 - Removed `setwd("~/Demeter2")`.
 - Removed `stopCluster(cl)` before `cl` exists.
@@ -51,6 +53,6 @@ The cleaned module avoids several obvious issues found in `Demeter2/sensorv3.R`:
 - Added guards for sparse, constant, and all-NA vectors in simulation.
 - Documented missing inputs rather than pretending the workflow is fully runnable.
 
-## Public-release posture
+## Legacy snapshots
 
-This module strengthens the scientific story, but it should be presented as historical exploratory research until a reproducible toy dataset and dependency lockfile are added.
+The imported `legacy/d2/` and `legacy/sd/` directories preserve the original repository layouts, including data tables and experiment files, so the complete code lineage now lives in one canonical repo.

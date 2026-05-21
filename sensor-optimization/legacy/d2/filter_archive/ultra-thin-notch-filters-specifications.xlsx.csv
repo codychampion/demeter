@@ -1,0 +1,17 @@
+Title,Stock Number,Price,CWL (nm),Dia. (mm),Optical Density OD,Dimensions (mm),Transmission (%),Type,Dimensional Tolerance (mm),CA (%),CWL Tolerance (%),Maximum Thickness (?m)
+"405nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-393,$85,405 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"488nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-394,$85,488 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"514nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-395,$85,514 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"532nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-396,$85,532 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"633nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-397,$85,633 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"785nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-398,$85,785 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"980nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-399,$85,980 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"1064nm, 12.5mm Dia., OD 3 Ultra-Thin Notch Filter",36-400,$85,1064 ,12.50 ,3 ,,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"405nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-329,$85,405 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"488nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-330,$85,488 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"514nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-331,$85,514 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"532nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-332,$85,532 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"633nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-333,$85,633 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"785nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-334,$85,785 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"980nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-335,$85,980 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
+"1064nm, 12.5mm Square, OD 3 Ultra-Thin Notch Filter",36-336,$85,1064 ,,3 ,12.5 x 12.5 ,>85 (average) ,Notch Filter ,±0.1 ,>90 ,±3 ,300 
