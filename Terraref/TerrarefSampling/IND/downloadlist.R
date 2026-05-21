@@ -30,7 +30,7 @@ i <- 1
 
 for(i in 1:nrow(selection)){
 comm <- noquote(paste(
-  "wget --no-check-certificate --content-disposition --directory-prefix=D:/INDSpectra https://terraref.ncsa.illinois.edu/thredds/fileServer/uamac_hs_vnir/",
+  "wget --no-check-certificate --content-disposition --directory-prefix=./INDSpectra https://terraref.ncsa.illinois.edu/thredds/fileServer/uamac_hs_vnir/",
   selection$file[i],
   "&",
   sep = ""

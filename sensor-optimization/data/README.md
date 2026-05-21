@@ -2,6 +2,8 @@
 
 This directory documents the data inputs expected by the historical sensor/filter optimization workflow.
 
+The reference input files are not included in this repository. Add reproducible sample inputs here, or document where equivalent source files can be obtained.
+
 ## Expected reference files
 
 | Original file | Purpose | Notes |
