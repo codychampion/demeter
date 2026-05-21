@@ -11,7 +11,7 @@ Historical postdoc research code for TerraRef hyperspectral plant phenotyping an
 Demeter combines two related threads of work:
 
 1. **TerraRef / hyperspectral processing** - download manifests, NetCDF/index processing, vegetation-index metadata, and exploratory plant-associated spectral extraction workflows.
-2. **Sensor optimization** - simulation, filter selection, and classification experiments built around low-cost spectral sensing ideas.
+2. **Sensor optimization** - follow-on `Demeter2` work for simulating spectra, applying low-cost optical filters, and optimizing filter/model combinations.
 
 This repository is the canonical home for the full Demeter research arc. It includes both a cleaned sensor-optimization module and imported legacy snapshots from the earlier `Demeter2` and `sensordevlopment` repositories.
 
@@ -26,6 +26,7 @@ The core idea is to move from raw or semi-processed TerraRef files toward usable
 | Area | Purpose |
 |---|---|
 | `Terraref/` | Historical scripts and manifests for working with TerraRef VNIR and index data products. |
+| Vegetation-index metadata | Reference metadata, formulas, citations, and variable definitions for spectral indices. |
 | `sensor-optimization/R/` | Cleaned historical sensor-optimization workflow and simulation helper. |
 | `sensor-optimization/data/` | Notes on required reference inputs and expected data layout. |
 | `sensor-optimization/legacy/d2/` | Full imported snapshot of the former `Demeter2` repository. |
@@ -44,7 +45,7 @@ See [`sensor-optimization/README.md`](sensor-optimization/README.md).
 
 ## Historical status
 
-This is historical research code, not a maintained package. Some files remain exploratory, generated, or tied to the original experiment layout. The cleaned scripts are useful for understanding the workflow shape, while the legacy snapshots preserve the broader original context.
+This is postdoc research code, not a polished package. Some scripts still reflect their original exploratory context, including generated manifests, rendered notebooks, and data-processing assumptions from the TerraRef workflow.
 
 ## Citation / attribution
 
