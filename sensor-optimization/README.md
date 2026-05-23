@@ -7,7 +7,7 @@
 
 Historical follow-on work from `Demeter2` for simulating spectral sensor responses and exploring low-cost filter combinations for stress/control classification.
 
-This module is being folded into canonical `demeter` so the postdoc work has one public home. The original `Demeter2` repository should be treated as the source archive for this module until all files have been audited and migrated.
+This module is now part of the canonical `demeter` repository. The imported legacy snapshots under `legacy/` preserve the original file lineage, while `R/` contains a cleaned historical skeleton for easier inspection.
 
 ## What this module does
 
@@ -30,7 +30,7 @@ The original `Demeter2` workflow:
 
 ## Important limitations
 
-This is historical research code, not a maintained package. The original `Demeter2` script depended on local working directories and input folders that are not fully present in this combined module yet.
+This is historical research code, not a maintained package. The original `Demeter2` script depended on local working directories and input folders that are preserved in the imported legacy snapshot rather than converted into a fully reproducible package.
 
 Known required inputs:
 
@@ -51,6 +51,6 @@ The cleaned module avoids several obvious issues found in `Demeter2/sensorv3.R`:
 - Added guards for sparse, constant, and all-NA vectors in simulation.
 - Documented missing inputs rather than pretending the workflow is fully runnable.
 
-## Public-release posture
+## Research posture
 
-This module strengthens the scientific story, but it should be presented as historical exploratory research until a reproducible toy dataset and dependency lockfile are added.
+This module should be read as historical exploratory research. A future reproducibility pass would add a small synthetic dataset, a dependency lockfile, and a short end-to-end example.

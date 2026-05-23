@@ -49,6 +49,6 @@ See [`sensor-optimization/README.md`](sensor-optimization/README.md).
 
 This is postdoc research code, not a polished package. Some scripts still reflect their original exploratory context, including generated manifests, rendered notebooks, and data-processing assumptions from the TerraRef workflow.
 
-## Citation / attribution
+## Attribution
 
-If this work is connected to a publication, project page, dataset, collaborator group, or institution record, add that citation here.
+This repository preserves historical postdoc research code connected to TerraRef hyperspectral plant phenotyping and follow-on sensor/filter optimization experiments. Add project-specific publication, dataset, collaborator, or institutional citations here only when they can be verified.
